@@ -1,0 +1,50 @@
+aber	but, however	conj
+alt	old	adj
+der Anfang	beginning, start	n
+auch	also, too	adv
+berühmt	famous	adj
+deutsch	German	adj
+das Deutschland	Germany	n
+dort	there	adv
+ein	a, an, one	prep
+einige	some, several	prep
+die Erde	Earth	n
+die Frage	question	n
+die Frau	Mrs., Ms., woman, wife	n
+der Freund	friend (male)	n
+die Freundin	friend (female)	n
+die Geographie	geography	n
+die Geschichte	history	n
+groß	large, great	adj
+gut	good	adj
+der Herr	gentleman	n
+hier	here	adv
+ja	yes	
+das Jahr	year	n
+kein	no, not any	adv
+die Kunst	art	n
+das Land	land, state, country	n
+die Mutter	mother	n
+natürlich	of course, naturally	adv
+nicht	not	adv
+das Österreich	Austria	n
+österreichisch	Austrian	adj
+sagen	to say	v
+schön	beautiful, nice	adj
+sehr	very	adv
+sein	to be	v
+die Stadt	city	n
+studieren	to go to college/university	v
+der Tag	day	n
+und	and	conj
+die Universität	university	n
+der Vater	father	n
+wann	when	adv
+was	what	pronoun
+wer	who	pronoun
+wie	how	adv
+wie viele	how much	
+die Wissenschaft	science, scholarship	n
+wo	where	adv
+das Wort	word	n
+ziemlich	fairly, rather	adv
