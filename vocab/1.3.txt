@@ -1,0 +1,18 @@
+ich bin	I am	v
+du bist	you are	v
+er ist	he is/it is	v
+sie ist	she is/it is	v
+es ist	it is	v
+wir sind	we are	v
+ihr seid	you (guys/all) are	v
+sie sind	they are	v
+Sie sind	you are	v
+ich war	I was	v
+du warst	you were	v
+er war	he was/it was	v
+sie war	she was/it was	v
+es war	it was	v
+wir waren	we were	v
+ihr wart	you (guys/all) were	v
+sie waren	they were	v
+Sie waren	you were	v

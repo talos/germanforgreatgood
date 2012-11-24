@@ -1,0 +1,11 @@
+wann	when	adv
+warum	why	adv
+was	what	pronoun
+was für ein	what kind of	
+welcher	which/what	pronoun
+wer	who	pronoun
+wie	how	adv
+wie viele	how many	
+wie viel	how much	
+wo	where	adv
+wohin	where to	

@@ -1,0 +1,136 @@
+all	all	adj
+der April	April	n
+analog	analog	adj
+die Anarchie	anarchy	n
+die Architektur	architecture	n
+der Arm	arm	n
+der August	August	n
+das Auto	auto	n
+der Ball	ball	n
+der Beginn	beginning	n
+die Biologie	biology	n
+bitter	bitter	adj
+der Bus	bus	n
+die Butter	butter	n
+der Clown	clown	n
+der Computer	computer	n
+der Dezember	December	n
+die Diskette	disk	n
+die Division	division	n
+die E-Mail	email	n
+das Experimen	experiment	n
+der Februrar	February	n
+der Film	film	n
+der Finger	finger	n
+das Foto	photo	n
+die Garage	garage	n
+der General	general	n
+die Geographie	geography	n
+die Geometrie	geometry	n
+das Gold	gold		n
+die Hand	hand	n
+das Happy End	happy ending	n
+das Hotel	hotel	n
+der Hunger	hunger	n
+der Index	index	n
+die Informatik	computer science	n
+der Januar	January	n
+das Kilometer	kilometer	n
+der Kindergarten	kindergarten	n
+die Klarinette	clarient	n
+der Knoten	knot	n
+das Know-how	know-how	n
+konservativ	conservative	adj
+der Kompromiss	compromise	n
+die Kultur	culture	n
+das Labyrinth	labyrinth	n
+das Land	land	n
+die Linguistik	linguistics	n
+die Literatur	literature	n
+die Madonna	Madonna	n
+die Mathematik	mathematics	n
+die Migration	migration	n
+mild	mild	adj
+die Million	million	n
+die Minute	minute	n
+modern	modern	adj
+das Museum	museum	n
+die Musik	musik	n
+der Name	name	n
+national	national	adj
+der November	November	n
+das Opium	opium	n
+der Oktober	October	n
+die Opposition	opposition	n
+original	original	adj
+der Park	park	n
+die Philosophie	philosophy	n
+die Physik	physics	n
+die Politik	politics	n
+das Problem	problem	n
+der Professor	professor	n
+progressiv	progressive	adj
+das Programm	program	n
+das Projekt	project	n
+der Prozess	process	n
+die Prozession	procession	n
+der Pullover	pullover	n
+die Psychologie	psychology	n
+das Quartal	quartal	n
+quick	quick	adj
+das Radio	radio	n
+real	real	adj
+die Reform	reform	n
+das Restaurant	restaurant	n
+der Ring	ring	n
+die Rose	rose	n
+der Sand	sand	n
+das Semester	semester	n
+der Senator	Senator	n
+der September	September	n
+so	so	adv
+das Sofa	sofa	n
+die Soziologie	sociology	n
+der Sport	sport	n
+die Story	story	n
+still	still	adv
+der Student	student	n
+das Talent	talent	n
+der Tango	tango	n
+der Tank	tank	n
+das Taxi	taxi	n
+das Team	team	n
+die Technologie	technology	n
+der Text	text	n
+das Theater	theater	n
+das Termometer	thermometer	n
+transparent	transparent	adj
+die Tube	tube	n
+die Tundra	tundra	n
+der Tunnel	tunnel	n
+der Turban	turban	n
+die Turbine	turbine	n
+das Ultimatum	ultimatum	n
+der Umlaut	umlaut	n
+die Vendetta	vendetta	n
+die Veranda	veranda	n
+das Verb	verb	n
+das Video	video	n
+die Villa	villa	n
+die Viola	viola	n
+virulent	virulent	adj
+warm	warm	adj
+wild	wild	adj
+der Wind	wind	n
+der Winter	winter	n
+der Wolf	wolf	n
+die Xenophobie	xenophobia	n
+die Yacht	yacht	n
+der Yak	yak	n
+der Yankee	yankee	n
+der Yen	yen	yen
+das Yoga	yoga	n
+die Yucca	yucca	n
+das Zebra	zebra	n
+die Zero	zero	n
+der Zoo	zoo	n
