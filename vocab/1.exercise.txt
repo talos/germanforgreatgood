@@ -3,9 +3,45 @@ das Nachbarland	neighboring country	n	-ër
 die Hauptstadt	capital city	n
 im Süden von	in the southern part of
 diesen Sommer	this summer
-die Oper	opera	f
+die Oper	opera	n
 Wiener	Viennese	adj
 die Gesellschaft	society	n
 gegründet	founded	v
 der Grieche	Greek	n
 heute	today	adv
+an der	at the	prep
+lesen	to read (reads)	v	(iest)
+der Koran	Koran	n
+die Bibel	Bible	n
+die Sprache	language	n
+der Geist	spirit	n
+willig	willing	adj
+das Fleisch	flesh	n
+schwach	weak	adj
+der Geburtstag	birthday	n
+das Theaterstück	theater play	n
+aller Anfang	getting started, the first step
+das Anfang	beginning, start	-:e
+schwer	difficult, weighty	adj
+das heißt	that means
+beginnen	to begin	v
+nicht einfach	not easy; difficult	adj
+im Anfang	in the beginning	adv
+das Wort	word	n
+von; vom	of; of the	prep
+erst	first	adv
+der Satz	sentence	n	-:e
+die Bibel	Bible, Holy Scriptures	n	-n
+die Szene	scene	n	-n
+das Zimmer	room	n
+das Studierzimmer	study	n
+suchen	to seek	v
+das Wissen	knowledge, learning	n
+geschrieben steht	it stands written, the words say
+für	for	prep
+der Sinn	perception, thought	n
+die Kraft	power, strength	n	-:e
+auch nicht aktiv genug	not active enough either
+die Tat	deed, act	n	-en
+denken	to think	v
+mehr als	more than	adv
