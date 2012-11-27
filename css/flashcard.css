@@ -1,0 +1,100 @@
+body {
+    font-family: "helvetica neue", helvetica, sans-serif;
+    font-size: 14pt;
+    font-weight: 300;
+    background: #efefff;
+}
+
+a:link {
+    text-decoration: none;
+    color: inherit;
+}
+
+#card {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    padding: 2em;
+    border: 1px solid #ccc;
+    background: white;
+    box-shadow: 2px 2px 5px #999;
+}
+
+    #card div {
+    }
+
+    #card div.hidden {
+        text-indent: -9999px;
+    }
+
+        #card #english {
+            min-height: 1.5em;
+            text-align: center;
+        }
+
+        #card #german {
+            margin-top: 1em;
+            min-height: 1.5em;
+            font-weight: 400;
+            text-align: center;
+        }
+
+        #card #lexCat {
+            display: inline-block;
+            font-style: italic;
+            font-variant: small-caps;
+        }
+
+        #card #extra {
+            display: inline-block;
+            float: right;
+            font-weight: bold;
+        }
+
+        #card #buttons {
+            text-align: center;
+        }
+
+            #card #buttons button {
+                margin-top: 1em;
+                background: #efefff;
+                border: 1px solid #ccc;
+                border-radius: 2px;
+                -moz-border-radius: 4px;
+                -webkit-border-radius: 4px;
+                -o-border-radius: 4px;
+                font-size: 14pt;
+                font-family: helvetica, sans-serif;
+                font-variant: small-caps;
+                cursor: pointer;
+            }
+
+#sad {
+    font-weight: bold;
+    font-size: 72pt;
+    display: none;
+    text-align: center;
+    margin-bottom: 0.5em;
+    border: 1px solid black;
+    border-radius: 1em;
+    width: 240px;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sources {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+    width: 300px;
+}
+
+    #sources div {
+        font-weight: 100;
+        font-size: 10pt;
+    }
+
+    #sources div.sourced {
+        font-weight: 400;
+    }
