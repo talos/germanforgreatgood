@@ -1,0 +1,7 @@
+haber	to have	v	irreg
+ich habe	I have
+du hast	you have
+er/sie/es hat	he/she/it has
+wir haben	we have
+ihr habt	you (all) have
+sie/Sie haben	they/you have

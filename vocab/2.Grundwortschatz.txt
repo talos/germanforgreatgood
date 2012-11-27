@@ -1,0 +1,48 @@
+all-	all, every
+die Arbeit	work	n
+arbeiten	to work	v	-en
+behandeln	to handle, treat, deal with	v	-eln
+bei	at	prep
+das Beispiel	example	n
+betrachten	to observe	v
+das Blut	blood	n
+das Buch	book	n
+denken	to think	v
+europäisch	European	adj
+die Familie	family	n
+fast	about, almost	adv
+gebrauchen	to use, employ	v	-en
+das Geld	money	n
+gesund	healthy	adj
+heißen	to be called, be named	v	-en
+heute	today	adv
+jetzt	now	adv
+kalt	cold	adj
+kennen	to know, be acquainted with	v
+das Kind	child	n	-er
+die Kindheit	childhood	n
+leben	to live	v	-en
+das Leben	life	n
+das Licht	light	n
+machen	to do, make, cause	v	-en
+der Mann	man, husband	n
+meist	most	adj
+der Mensch	mankind, human being, person	n
+der Monat	month	n
+nein	no
+neu	new	adj
+öffnen	to open	v	-en
+die Pflanze	plant	n
+regnen	to rain	v	-en
+sterben	to die	v	irreg
+das Tier	animal	n
+ungefähr	approximately	adv
+untersuchen	to examine, investigate	v	-en
+versichern	to insure	v	-ern
+viel	much	adv
+viele	many	adj
+die Welt	world	n
+wenig	little, few	adj
+wichtig	important	adj
+die Woche	week	n
+zum Beispiel	for example
