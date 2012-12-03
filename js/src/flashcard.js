@@ -37,7 +37,9 @@ $(document).ready(function () {
                     xhr: $.get(pathToSource)
                 };
             data.xhr.done(function (resp) {
-                allVocab[href] = _.map(resp.split('\n'), function (line) {
+                allVocab[href] = _.map(_.filter(resp.split('\n'), function (line) {
+                    return line !== '';
+                }), function (line) {
                     var lineSplit = line.split('\t');
                     return {
                         german: lineSplit[0],
