@@ -1,0 +1,9 @@
+der Verfasser	author	n
+der Mantel	coat	n	¨
+der Versuch	experiment	n	-e
+der Sohn	son	n	-¨e
+der Mann	mann	n	-¨er
+das Bild	picture	n	-er
+die Lehre	doctrine	n	-n
+das Auto	auto	n	-s
+die Frau	woman	n	-en

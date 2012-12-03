@@ -1,0 +1,17 @@
+der Advokat	lawyer	n-noun	-en
+der Affe	ape	-n-noun	-n
+der Autor	author	n-noun	-en
+der Bär	bear	n-noun	-en
+der Bauer	farmer	n-noun	-n
+der Elefant	elephant	n-noun	-en
+der Fürst	prince, ruler	n-noun	-en
+der Hase	hare	n-noun	-n
+der Herr	gentleman, lord	n-noun	-en
+der Intendant	theater director	n-noun	-en
+der Komponist	composer	n-noun	-en
+der Löwe	lion	n-noun	-n
+der Nachbar	neighbor	n-noun	-n
+der Philosoph	philosopher	n-noun	-en
+der Präsident	president	n-noun	-en
+der Prinz	prince	n-noun	-en
+der Repräsentant	representative	n-noun	-en

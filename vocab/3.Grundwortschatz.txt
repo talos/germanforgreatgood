@@ -1,0 +1,51 @@
+antworten	to answer	v
+bauen	to build	v
+beantworten	to answer, reply to	v
+bedeuten	to mean, signify	v
+die Bedeutung	meaning, significance	n	-en
+bekannt	(well) known	adj
+bezahlen	to pay	v
+danken	to thank	v
+dann	then	adv
+dienen	to serve, be used for	v
+einkaufen	to shop (for)	v
+entdecken	to discover	v
+die Entdeckung	discovery	n	-en
+erfinden	to invent	v
+die Erfindung	invention	n	-en
+erst	first, only	adj
+die Farbe	color	n	-n
+die Flüssigkeit	liquid	n	-en
+der Forscher	researcher (male)	n	-
+die Forscherin	researcher (female)	n	-nen
+fragen	to ask	v
+gehören	to belong to	v
+gestern	yesterday	adj
+die Idee	idea	n	-n
+das Jahrundert	century	n	-e
+kaufen	to buy	v
+die Lehre	teaching, doctrine	n	-n
+die Luft	air	n	-¨e	air
+die Ökologie	ecology	n
+der Regisseur	director (male)	n
+die Regisseurin	director (female)	n	-nen
+der Römer	Roman (male)	n	-
+die Römerin	Roman (female)	n	-nen
+sagen	to say	v
+der Schauspieler	actor (male)	n	-
+die Schauspielerin	actress	n	-nen
+der Staat	state, country, nation	n
+der Teil	part	n	-e
+der Versuch	experiment, attempt	n	-e
+die Wärme	warmth, heat	n
+was für (ein)	what kind of
+der Weltkrieg	world war	n	-e
+wirtschaftlich	economic, industrial	adj
+der Wissenschaftler	scholar, scientist (male)	n	-
+die Wissenschaftlerin	scholar, scientist (female)	n	-nen
+wissenschaftlich	scientific, scholarly	adj
+zählen	to count	v
+die Zahl	number	n	-en
+zahlen	to pay	v
+zeigen	to show	v
+der Zuschauer	spectator	n	-
