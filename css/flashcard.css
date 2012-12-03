@@ -18,6 +18,15 @@ a:link {
     border: 1px solid #ccc;
     background: white;
     box-shadow: 2px 2px 5px #999;
+    background-image: url(../img/success.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#card.failure {
+    background-image: url(../img/failure.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
     #card div {
@@ -51,11 +60,33 @@ a:link {
             font-weight: bold;
         }
 
-        #card #buttons {
+        #card #win {
+            display: inline-block;
+            font-variant: small-caps;
+            color: green;
+        }
+
+        #card #lose {
+            display: inline-block;
+            float: right;
+            color: red;
+        }
+
+        #card #answer {
+            padding-top: 0.5em;
             text-align: center;
         }
 
-            #card #buttons button {
+            #card #answer input[type='text'] {
+                display: block;
+                width: 100%;
+                height: 1em;
+                border: 1px solid #ccc;
+                height: 1.2em;
+                font-size: 14pt;
+            }
+
+            #card #answer button,input[type='submit'] {
                 margin-top: 1em;
                 background: #efefff;
                 border: 1px solid #ccc;

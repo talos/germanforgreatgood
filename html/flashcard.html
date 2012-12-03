@@ -6,6 +6,7 @@
 
     <script type="text/javascript" src="../js/lib/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="../js/lib/underscore-min.js"></script>
+    <script type="text/javascript" src="../js/lib/levenshtein.js"></script>
     <script type="text/javascript" src="../js/src/flashcard.js"></script>
 
     <link rel="stylesheet" type="text/css" href="../css/flashcard.css" />
@@ -20,10 +21,14 @@
       <div id="extra"></div>
       <div id="lexCat"></div>
       <div id="german"></div>
-      <div id="buttons">
-        <button id="next">next</button>
-        <button id="reveal">reveal</button>
-      </div>
+      <div id="proximity"></div>
+      <form id="answer" action="?">
+        <input type="text" name="answer" />
+        <input type="submit" value="answer" />
+        <button id="give-up">i give up</button>
+      </form>
+      <div id="lose">0</div>
+      <div id="win">0</div>
     </div>
     <div id="sources">
     </div>

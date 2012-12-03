@@ -1,5 +1,5 @@
 /*jslint browser: true, nomen: true*/
-/*global $, _*/
+/*global $, _, levenshteinenator*/
 
 $(document).ready(function () {
     "use strict";
@@ -10,10 +10,16 @@ $(document).ready(function () {
         $lexCat = $('#lexCat', $card),
         $extra = $('#extra', $card),
         $next = $('#next', $card),
-        $reveal = $('#reveal', $card),
+        $answer = $('#answer', $card),
+        $answerInput = $('input[type="text"]', $answer),
         $sad = $('#sad'),
         $sources = $('#sources'),
+        $giveUp = $('#give-up'),
+        $proximity = $('#proximity'),
+        $win = $('#win'),
+        $lose = $('#lose'),
         $indexLoader = $('<div />').css('display', 'none').appendTo($('body')),
+        failureClass = 'failure',
         vocabListPath = '../vocab/',
         allVocab = {},
         availableVocab = {},
@@ -56,7 +62,36 @@ $(document).ready(function () {
             }
             $source.data('flashcard', data);
             return $source;
+        },
+
+        advance = function () {
+            $('div', $sources).each(function (i, div) {
+                $(div).removeClass('sourced');
+            });
+
+            $card.removeClass(failureClass);
+            $giveUp.hide();
+            $proximity.hide();
+            $answerInput.val('');
+            if (_.size(availableVocab) === 0) {
+                $sad.fadeIn();
+            } else {
+                $sad.fadeOut();
+
+                var chosenSource = _.keys(availableVocab)[Math.floor(Math.random() * _.size(availableVocab))],
+                    vocabList = allVocab[chosenSource],
+                    choice = vocabList[Math.floor(Math.random() * vocabList.length)];
+                availableVocab[chosenSource].addClass('sourced');
+                $english.text(choice.english);
+                $german.addClass('hidden').text(choice.german);
+                $lexCat.text(choice.lexCat || '');
+                $extra.text(choice.extra || '');
+            }
         };
+
+    $answer.on('submit', function (evt) {
+        evt.preventDefault();
+    });
 
     $indexLoader.load(vocabListPath, function () {
         $.when.apply(this, _.map($('a', $indexLoader), function (el) {
@@ -64,33 +99,33 @@ $(document).ready(function () {
             return buildSource(href).appendTo($sources).data('flashcard').xhr;
         })).done(function () {
 
-            // Bind event handlers
-            $next.click(function (evt) {
-                $('div', $sources).each(function (i, div) {
-                    $(div).removeClass('sourced');
-                });
-                if (_.size(availableVocab) === 0) {
-                    $('#sad').fadeIn();
+            $answer.on('submit', function (evt) {
+                var answerValue = $answerInput.val(),
+                    realAnswer = $german.text(),
+                    hasFailedAlready = $card.hasClass(failureClass),
+                    distance = levenshteinenator(answerValue, realAnswer);
+                if (distance === 0) {
+                    if (!hasFailedAlready) {
+                        $win.text(Number($win.text()) + 1);
+                    }
+                    advance();
                 } else {
-                    $('#sad').fadeOut();
-
-                    var chosenSource = _.keys(availableVocab)[Math.floor(Math.random() * _.size(availableVocab))],
-                        vocabList = allVocab[chosenSource],
-                        choice = vocabList[Math.floor(Math.random() * vocabList.length)];
-                    availableVocab[chosenSource].addClass('sourced');
-                    $english.text(choice.english);
-                    $german.addClass('hidden').text(choice.german);
-                    $lexCat.text(choice.lexCat || '');
-                    $extra.text(choice.extra || '');
+                    if (!hasFailedAlready) {
+                        $lose.text(Number($lose.text()) + 1);
+                    }
+                    $proximity.show()
+                        .text(Math.floor(100 - (100.0 * distance / realAnswer.length)) + '%');
+                    $card.addClass('failure');
+                    $giveUp.show();
                 }
             });
 
-            $reveal.click(function (evt) {
+            $giveUp.on('click', function (evt) {
                 $german.removeClass('hidden');
             });
 
             // Bootstrap
-            $next.click();
+            advance();
         });
     });
 });
