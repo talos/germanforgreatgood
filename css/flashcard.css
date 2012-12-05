@@ -60,18 +60,6 @@ a:link {
             font-weight: bold;
         }
 
-        #card #win {
-            display: inline-block;
-            font-variant: small-caps;
-            color: green;
-        }
-
-        #card #lose {
-            display: inline-block;
-            float: right;
-            color: red;
-        }
-
         #card #answer {
             padding-top: 0.5em;
             text-align: center;
@@ -119,13 +107,27 @@ a:link {
     margin-right: auto;
     padding: 2em;
     width: 300px;
+    display: table;
 }
 
     #sources div {
         font-weight: 100;
         font-size: 10pt;
+        display: table-row;
     }
 
     #sources div.sourced {
         font-weight: 400;
     }
+
+        #sources div div {
+            display: table-cell;
+        }
+
+        #sources div div.correct {
+            color: green;
+        }
+
+        #sources div div.wrong {
+            color: red;
+        }

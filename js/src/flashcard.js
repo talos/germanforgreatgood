@@ -12,32 +12,39 @@ $(document).ready(function () {
         $next = $('#next', $card),
         $answer = $('#answer', $card),
         $answerInput = $('input[type="text"]', $answer),
+        $answerSubmit = $('input[type="submit"]', $answer),
         $sad = $('#sad'),
         $sources = $('#sources'),
-        $giveUp = $('#give-up'),
         $proximity = $('#proximity'),
-        $win = $('#win'),
-        $lose = $('#lose'),
         $indexLoader = $('<div />').css('display', 'none').appendTo($('body')),
         failureClass = 'failure',
         vocabListPath = '../vocab/',
+        allSources = {},
+        availableSources = {},
         allVocab = {},
-        availableVocab = {},
+        curSource,
+        curIndex,
 
         buildSource = function (href) {
             var pathToSource = vocabListPath + href,
                 $checkbox = $('<input />').attr('type', 'checkbox'),
+                $total = $('<div />').addClass('total'),
+                $correct = $('<div />').addClass('correct'),
+                $wrong = $('<div />').addClass('wrong'),
                 $source = $('<div />')
                     .append($checkbox)
                     .append($('<a />').text(href).attr({
                         'href': pathToSource,
                         'target': '_blank'
-                    })),
+                    }))
+                    .append($total).append($correct).append($wrong),
                 data = {
                     xhr: $.get(pathToSource)
                 };
+            $wrong.text('0');
+            $correct.text('0');
             data.xhr.done(function (resp) {
-                allVocab[href] = _.map(_.filter(resp.split('\n'), function (line) {
+                var hrefVocab = _.map(_.filter(resp.split('\n'), function (line) {
                     return line !== '';
                 }), function (line) {
                     var lineSplit = line.split('\t');
@@ -48,12 +55,18 @@ $(document).ready(function () {
                         extra: lineSplit[3]
                     };
                 });
+                allVocab[href] = {
+                    unused: hrefVocab,
+                    correct: [],
+                    wrong: []
+                };
+                $total.text(String(hrefVocab.length));
             });
             $checkbox.on('click.flashcard', function (evt) {
                 if ($checkbox.is(':checked')) {
-                    availableVocab[href] = $source;
+                    availableSources[href] = $source;
                 } else {
-                    delete availableVocab[href];
+                    delete availableSources[href];
                 }
             });
             // Pre-select main vocab sections.
@@ -63,6 +76,7 @@ $(document).ready(function () {
                 $checkbox.prop('checked', 'checked');
             }
             $source.data('flashcard', data);
+            allSources[href] = $source;
             return $source;
         },
 
@@ -72,18 +86,31 @@ $(document).ready(function () {
             });
 
             $card.removeClass(failureClass);
-            $giveUp.hide();
             $proximity.hide();
             $answerInput.val('');
-            if (_.size(availableVocab) === 0) {
-                $sad.fadeIn();
-            } else {
-                $sad.fadeOut();
 
-                var chosenSource = _.keys(availableVocab)[Math.floor(Math.random() * _.size(availableVocab))],
-                    vocabList = allVocab[chosenSource],
-                    choice = vocabList[Math.floor(Math.random() * vocabList.length)];
-                availableVocab[chosenSource].addClass('sourced');
+            curSource = _.keys(availableSources)[Math.floor(Math.random() * _.size(availableSources))];
+            var vocabList = allVocab[curSource].unused,
+                $sourceDiv = availableSources[curSource],
+                choice;
+
+            // Move wrong vocab back to unused
+            if (vocabList.length === 0) {
+                allVocab[curSource].unused = allVocab[curSource].wrong;
+                allVocab[curSource].wrong = [];
+                vocabList = allVocab[curSource].unused;
+            }
+
+            if (vocabList.length === 0) {
+                $('input[type="checkbox"]', $sourceDiv).prop('checked', false);
+                delete availableSources[curSource];
+                advance();
+            } else {
+
+                curIndex = Math.floor(Math.random() * vocabList.length);
+
+                choice = vocabList[curIndex];
+                $sourceDiv.addClass('sourced');
                 $english.text(choice.english);
                 $german.addClass('hidden').text(choice.german);
                 $lexCat.text(choice.lexCat || '');
@@ -92,7 +119,35 @@ $(document).ready(function () {
         };
 
     $answer.on('submit', function (evt) {
+        // Prevent default form submission
         evt.preventDefault();
+    });
+
+    $sad.on('click', function (evt) {
+        $answer.trigger('submit');
+    });
+
+    $answerInput.on('keyup', function (evt) {
+        // Change button input in case of empty input
+        var answerValue = $answerInput.val(),
+            failedAlready = $card.hasClass(failureClass);
+        if (answerValue !== '' && !failedAlready) {
+            $answerSubmit.val('answer');
+        } else {
+            $answerSubmit.val('i give up');
+        }
+    });
+
+    $(window).on('keyup', function (evt) {
+        // Ignore arrow keys explicitly inside the text.
+        if ($(evt.target).attr('type') === 'text') {
+            return true;
+        }
+        switch (evt.keyCode) {
+        case 39:
+            $answer.submit();
+            break;
+        }
     });
 
     $indexLoader.load(vocabListPath, function () {
@@ -102,28 +157,42 @@ $(document).ready(function () {
         })).done(function () {
 
             $answer.on('submit', function (evt) {
-                var answerValue = $answerInput.val(),
-                    realAnswer = $german.text(),
-                    hasFailedAlready = $card.hasClass(failureClass),
-                    distance = levenshteinenator(answerValue, realAnswer);
-                if (distance === 0) {
-                    if (!hasFailedAlready) {
-                        $win.text(Number($win.text()) + 1);
-                    }
-                    advance();
+                if (_.size(availableSources) === 0) {
+                    $sad.fadeIn();
+                    $card.hide();
                 } else {
-                    if (!hasFailedAlready) {
-                        $lose.text(Number($lose.text()) + 1);
-                    }
-                    $proximity.show()
-                        .text(Math.floor(100 - (100.0 * distance / realAnswer.length)) + '%');
-                    $card.addClass('failure');
-                    $giveUp.show();
-                }
-            });
+                    $sad.fadeOut();
+                    $card.show();
+                    var answerValue = $answerInput.val(),
+                        realAnswer = $german.text(),
+                        hasFailedAlready = $card.hasClass(failureClass),
+                        distance = levenshteinenator(answerValue, realAnswer),
+                        $sourceDiv = allSources[curSource],
+                        $total = $('.total', $sourceDiv),
+                        $correct = $('.correct', $sourceDiv),
+                        $wrong = $('.wrong', $sourceDiv),
+                        vocabForSource = allVocab[curSource],
+                        card = vocabForSource.unused[curIndex];
 
-            $giveUp.on('click', function (evt) {
-                $german.removeClass('hidden');
+                    if (hasFailedAlready) {
+                        $card.removeClass('failure');
+                        advance();
+                    } else if (distance === 0) {
+                        vocabForSource.unused.splice(curIndex, 1);
+                        vocabForSource.correct.push(card);
+                        advance();
+                    } else {
+                        vocabForSource.unused.splice(curIndex, 1);
+                        vocabForSource.wrong.push(card);
+                        $german.removeClass('hidden');
+                        $proximity.show()
+                            .text(Math.floor(100 - (100.0 * distance / Math.max(realAnswer.length, answerValue.length))) + '%');
+                        $card.addClass('failure');
+                    }
+                    $total.text(vocabForSource.unused.length);
+                    $wrong.text(vocabForSource.wrong.length);
+                    $correct.text(vocabForSource.correct.length);
+                }
             });
 
             // Bootstrap
