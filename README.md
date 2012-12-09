@@ -33,4 +33,4 @@ All JavaScript should pass JS Lint.
 
 ### License
 
-BSD.
+BSD for everything except the vocab.
