@@ -18,7 +18,7 @@ $(document).ready(function () {
         $proximity = $('#proximity'),
         $indexLoader = $('<div />').css('display', 'none').appendTo($('body')),
         failureClass = 'failure',
-        vocabListPath = '../vocab/',
+        vocabListPath = 'vocab/',
         allSources = {},
         availableSources = {},
         allVocab = {},
