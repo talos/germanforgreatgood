@@ -24,7 +24,7 @@ word "Grundwortschatz" in the title will be checked off automatically to start.
 
 The format of files is (tab delimited):
 
-_Non-English_*tab*_English_*tab*_Optional lexical category_*tab*_Optional other
+_Non-English_ *tab* _English_ *tab* _Optional lexical category_ *tab* _Optional other
 info_
 
 ### Contributing
