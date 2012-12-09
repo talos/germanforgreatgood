@@ -26,3 +26,29 @@ das Staatsgeschäft	government business or matter	-e
 die Buchhandlung	bookstore	n	-en
 kosten	to cost	v
 nur	only	adv
+das Bild	picture, scene	n	-er
+überreichen	present, hand over	v
+will beweisen	wants to prove
+überreichen	handover to	v	+ dat.
+vermittels	by means of	v	+ gen.
+am Himmel	in the heavens/skies
+möglich	possible	adj
+die Folge	consequence	n	-n
+gewarnt von	warned by	v	+dativ
+gewarnt vor	warned about	v	+dativ
+die Forschung	research	n	-en
+bezeugen	testify	v
+vertauschen	interchange	v
+der Hof	court	n	-¨e
+durch	through	prep	+Akkusativ
+bestätigen	to confirm	v
+das Gespräch	conversation	n	-e
+beordern	to order	v
+widerrufen	to recant	v
+die Bewegung	movement	n	-en
+der Gefangen	prisoner (male)	n
+das Landhaus	country house	n	-¨er
+die Nähe	proximity	n	-
+der Tod	death	n	-e
+überschreiten	to cross over	v
+die Grenze	boundary, border	n	-n
