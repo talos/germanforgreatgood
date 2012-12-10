@@ -1,6 +1,6 @@
 der Advokat	lawyer	n-noun	-en
 der Affe	ape	-n-noun	-n
-der Autor	author	n-noun	-en
+der Autor	author (writer)	n-noun	-en
 der Bär	bear	n-noun	-en
 der Bauer	farmer	n-noun	-n
 der Elefant	elephant	n-noun	-en

@@ -1,4 +1,4 @@
-haber	to have	v	irreg
+haben	to have	v	irreg
 ich habe	I have
 du hast	you have
 er/sie/es hat	he/she/it has

@@ -1,4 +1,4 @@
-der Verfasser	author	n
+der Verfasser	author (editor)	n
 der Mantel	coat	n	¨
 der Versuch	experiment	n	-e
 der Sohn	son	n	-¨e
