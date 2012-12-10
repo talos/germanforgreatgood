@@ -1,0 +1,11 @@
+zweite	second	adj
+dritte	third	adj
+vierte	fourth	adj
+siebte	seventh	adj
+zwölfte	twelfth	adj
+neunzehnte	nineteenth	adj
+zwanzigste	twentieth	adj
+fünfundzwanzigste	twenty-fifth	adj
+dreißigste	thirtieth	adj
+hundertste	hundredth	adj
+hunderterste	hundred-and-first	adj
