@@ -1,0 +1,38 @@
+befehlen	to order	v	e to ie
+brechen	to break	v	e to i
+empfehlen	to recommend	v	e to ie
+erschrecken	to frighten	v	e to i
+essen	to eat	v	e to i
+fressen	to devour	v	e to i
+geben	to give	v	e to i
+geschehen	to happen	v	e to ie (in 3rd person only)
+helfen	to help	v	e to i
+lesen	to read	v	e to ie
+messen	to measure	v	e to i
+sehen	to see	v	e to ie
+sprechen	to speak	v	e to i
+stehlen	to steal	v	e to ie
+sterben	to die	v	e to i
+tragen	to carry, bear	v	a to ä
+treffen	to meet, hit	v	e to i
+treten	to tread, step	v	e to i
+verbergen	to hide	v	e to i
+vergessen	to forget	v	e to i
+werden	to become	v	e to i
+werfen	to throw	v	e to i
+backen	to bake	v	a to ä
+empfangen	to receive	v	a to ä
+fallen	to fall	v	a to ä
+fahren	to drive, ride	v	a to ä
+fangen	to catch	v	a to ä
+halten	to hold	v	a to ä
+laden	to load	v	a to ä
+lassen	to allow, let	v	a to ä
+raten	to advise	v	a to ä
+schlafen	to sleep	v	a to ä
+schlagen	to hit	v	a to ä
+wachsen	to grow	v	a to ä
+waschen	to wash	v	a to ä
+laufen	to run	v	au to äu
+saufen	to drink, guzzle	v	au to äu
+stoßen	to push	v	o to ö
