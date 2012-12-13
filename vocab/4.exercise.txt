@@ -50,4 +50,5 @@ rund	around, approximately	adv
 der Fünftel	one fifth	n
 mehr als	more than
 der Ausländer	foreigner	n	-
-
+mehrere	several	adj
+anders als	unlike	adv
