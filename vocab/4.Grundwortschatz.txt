@@ -6,7 +6,7 @@ beschreiben	to describe	v
 betragen	to amount to, come to, be	v	a to ä
 bis	until	prep
 der Brief	letter	n	-e
-dein	yours, your	pronoun
+dein	yours, your (singular informal)	adj
 dritt-	third	prefix
 durch	through, by	prep
 enthalten	to contain, include	v	a to ä
