@@ -1,7 +1,6 @@
 beginnen	begin	v	-en
 bringen	bring	v	-en
 enden	end	v	-en
-fallen	fall	v	-en
 finden	find	v	-en
 geben	give	v	-en
 gewinnen	win	v	-en
