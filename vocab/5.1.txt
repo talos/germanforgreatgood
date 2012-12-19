@@ -1,9 +1,0 @@
-alle	all	adj (pl.)
-beide	both	adj (pl.)
-dieser	this, that, the latter	adj
-jeder	each, every	adj
-jener	that, the former	adj
-mancher	many a	adj
-manche	some, several	adj (pl.)
-solcher	such	adj
-welcher	which	adj
