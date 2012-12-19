@@ -1,0 +1,43 @@
+bis	until, up to, as far as	prep	+acc
+durch	though, by, by means of	prep	+acc
+entlang	along	prep	+acc
+für	for	prep	+acc
+gegen	against, toward	prep	+acc
+ohne	without	prep	+acc
+um	around, about, at (+time)	prep	+acc
+wider	against	prep	+acc
+aus	out of, of, from	prep	+dat
+außer	besides, except	prep	+dat
+bei	with, near	prep	+dat
+entgegen	toward	prep	+dat
+gegenüber	opposite	prep	+dat
+gemäß	in accordance with	prep	+dat
+mit	with	prep	+dat
+nach	after, to, according to	prep	+dat
+seit	since, for	prep	+dat
+von	from, by, of	prep	+dat
+zu	to, at	prep	+dat
+(an)statt	instead of	prep	+gen
+außerhalb	outside of	prep	+gen
+innerhalb	inside of, within	prep	+gen
+oberhalb	above	prep	+gen
+unterhalb	below	prep	+gen
+diesseits	on this side of	prep	+gen
+jenseits	on that side of	prep	+gen
+halber	for the sake of	prep	+gen
+infolge	as a result of, due to	prep	+gen
+inmitten	in the midst of	prep	+gen
+mittels	by means of	prep	+gen
+trotz	in spite of	prep	+gen
+um…willen	for the sake of	prep	+gen
+während	in the course of, during	prep	+gen
+wegen	on account of, because of	prep	+gen
+an	at, to, on (vertically)	prep	+dat/acc
+auf	on (horizontally), in, to	prep	+dat/acc
+hinter	behind	prep	+dat/acc
+in	in, into	prep	+dat/acc
+neben	next to, beside	prep	+dat/acc
+über	over, above, about, concerning, via	prep	+dat/acc
+unter	under, between, among	prep	+dat/acc
+vor	in front of, before, prior, ago	prep	+dat/acc
+zwischen	between, among	prep	+dat/acc
