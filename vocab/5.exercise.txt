@@ -1,0 +1,77 @@
+der Himmel	heaven	n
+wüst	barren	adj
+leer	empty	adj
+finster	dark	adj
+der Geist	spirit	n	-er
+schweben	to hover	v
+scheiden	to separate, divide	v	ei -> ie
+die Finsternis	darkness	n	-se
+das Mittelalter	middle ages	n
+das Zentrum	center	n	um -> en
+die Landeshauptstadt	state capital	n	-¨e
+die Wende	the turn	n	-n
+der Osten	east	n
+die Nachbarstadt	neighboring city	n	-¨e
+schlagen	to fasten to, nail to, hit	v	strong
+die Tür	door	n	-en
+der Maler	painter	n	-
+die Darstellung	portrayal	n	-en
+der Vordergrund	foreground	n	-¨e
+überstehen	to withstand	v	irreg
+der Zuwachs	growth	n
+stiegen	to rise	v
+schwierig	difficult	adj
+unmöglich	impossible	adj
+klingen	sound	v	i -> a
+empfinden	to feel, sense, perceive	v	i -> a
+der Niedergang	decline	n
+fordern	to demand, advocate	v
+kräftig	powerful, vigorous	adj
+das Geschlecht	race	n	-er
+der Übermensch	superman	n	n-noun
+der Regen	rain	n	-
+trüb	muddy, cloudy	adj
+die Überflutung	flood	n	-en
+zerstören	to destroy	v
+verkünden	to declare	v
+der Notzustand	state of emergency	n	-¨e
+das Notizbuch	notebook	n	-¨er
+die Einzelheit	detail	n	-en
+einfach	simple, simply	adj
+kompliziert	complicated, complex	adj
+die Wirkung	effect	n	-en
+der Luftdruck	air pressure	n	-¨e
+der Bürgermeister	mayor	n	-
+die Halbkugel	hemisphere	n	-eln
+der Kaiser	emperor	n	-
+die Abtei	abbey	n	-en
+der Erzbischof	archbishop	n	-¨e
+übersehen	oversee	v
+die Lieblingsresidenz	favorite residence	n	-en
+der Dom	cathedral	n	
+begraben	buried	adj
+brennen	to burn	v
+ursprünglich	original	adj
+der Sakralbau	sacred building	n
+der Boden	ground, territory	n
+vollenden	to complete	v
+der Turm	tower, steeple	n	-¨e
+bekommen	to get, obtain	v
+immer mehr	more and more
+das Mittelalter	middle ages	n	
+aufwendig	expensive	adj
+erleben	to experience	v
+der Ablassbrief	letters of indulgence	n	-e
+der Papst	pope	n	-¨e
+der Kampf	battle, struggle	n	-¨e
+besonders	especially	adv
+verlassen	to leave	v
+geistlich	religious, church	adj
+der Fürstentum	principality	n	-¨er
+unzählig	innumerable	adj
+der Tote	dead person (male)	n
+die Tote	dead person (female)	n
+besetzen	to occupy (military)	v
+kaiserlich	imperial	adj
+weinend	crying, wailing	adj
+das Leiden	suffering	n	-

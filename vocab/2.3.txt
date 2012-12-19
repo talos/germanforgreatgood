@@ -14,6 +14,5 @@ wir antworten	we answer, are answering, do answer
 ihr antwortet	you (all) answer, are answering, do answer
 sie antworten	they answer, are answering, do answer
 Sie antworten	you answer, are answering, do answer
-heißen	to be called, named	v	-en
 behandeln	to handle, treat	v	-eln
 liefern	to supply, deliver	v	-ern

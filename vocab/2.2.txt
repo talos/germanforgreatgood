@@ -7,7 +7,6 @@ gewinnen	win	v	-en
 hängen	hang	v	-en
 helfen	help	v	-en
 hören	hear	v	-en
-kommen	come	v	-en
 kosten	cost	v	-en
 landen	land	v	-en
 lernen	learn	v	-en
