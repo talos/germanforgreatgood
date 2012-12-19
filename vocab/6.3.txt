@@ -1,11 +1,11 @@
-an dem	am
-auf das	aufs
-bei dem	beim
-durch das	durchs
-für das	fürs
-in dem	im
-in das	ins
-um das	ums
-von dem	vom
-zu dem	zum
-zu der	zur
+an dem	am	contraction	German->German
+auf das	aufs	contraction	German->German
+bei dem	beim	contraction	German->German
+durch das	durchs	contraction	German->German
+für das	fürs	contraction	German->German
+in dem	im	contraction	German->German
+in das	ins	contraction	German->German
+um das	ums	contraction	German->German
+von dem	vom	contraction	German->German
+zu dem	zum	contraction	German->German
+zu der	zur	contraction	German->German
