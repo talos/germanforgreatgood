@@ -1,0 +1,41 @@
+all	all	pronoun	der word (pl.)
+als	as, when, than	adverb
+auf	on, upon	prep
+beginnen	to begin	v	i -> a
+beide	both	pronoun	der word (pl.)
+bringen	to bring	v	irreg
+dieser	this, that, the latter	pronoun	der word
+die Entwicklung	development	n	-en
+das Ergebnis	result	n	-se
+erklären	to explain	v
+etwa	about, perhaps	adv
+der Fluss	river	n	-¨e
+das Gebiet	area, region, field	n	-e
+die Gegend	region, district	n	-en
+das Jahrzehnt	decade	n	-e
+jeder	each, every	pronoun	der word
+jener	that, the former	pronoun	der word
+die Kirche	church	n	-n
+kommen	to come	v	irreg
+der Krieg	war	n	-e
+leben	to live	v
+letzt	last	adj
+die Lösung	solution	n	-en
+mancher	many a	pronoun	der word
+manche	some, several	pronoun	der word (pl.)
+mehr	more	adj
+mit	with	prep
+nun	now	adv
+schaffen	to create	v	irreg
+schnell	rapid, fast	adj
+so	so, such	adv
+solcher	such	pronoun	der word
+die Stadt	city	n	-¨e
+stark	strong	adj
+steigen	to rise, climb	v	irreg
+verschieden	various, different	adj
+von	of, from	prep
+vor	before, ago	prep
+werden	to become	v	irreg
+ziegen	to move, pull	v	irreg
+zwischen	between	prep
