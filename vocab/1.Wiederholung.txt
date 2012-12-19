@@ -1,0 +1,90 @@
+die Landschaft	landscape n	-en
+die Landschaftzone	geographic region	n	-n
+das Tiefland	lowland	n	-̈er
+das Mittelgebirge	central chain of mountains	n	-
+das Alpengebiet	Alpine region	n	-e
+die Forsetzung	 continuation	n	-en
+höchst-	highest	pref
+die Erhebung	elevation	n	-en
+das Staatsgebeit	state territory	n	-e
+erreichen	to attain	v
+die Höhe	height	n	-n
+das Flachland	lowland, flatland	n	-̈er
+der See	lake	n	-n
+das Moor	swamp, moor	n	-e
+der Schotter	stone, slag, rock	n	-
+die Fläche	area, surface	n	-n
+mannigfaltig	varied, manifold	adj
+der Wald	forest, woods	n	-̈er
+nieder	low	adj
+zahlreich	numerous	adj
+besuchen	to visit	v
+der Bewohner	inhabitant, resident	n	-
+zum	to the	prep
+der Zweig	branch	n	-e
+indogermanisch	Indo-European	adj
+die Sprachfamilie	family of languages	n	-n
+um	around, about	prep
+die Geburt	birth	n	-en
+besetzen	to occupy	v
+der Sachse	Saxon	n-noun	-n
+der Friese	Frisian	n-noun	-n
+während	during, in the course of	prep	+gen
+die Völkerwanderung	great migration	n	-en
+der Franke	Franconian	n-noun	-n
+weiter	farther, further	adv
+das Reich	empire	n	-e
+krönen	to crown	v
+der Papst	pope	n	-̈e
+die Blütezeit	golden age	n	-en
+mittelalterlich	medieval	adj
+regieren	to rule	v
+heilig	holy	adj
+Preußen	Prussia
+der Aufstieg	rise	n	-e
+die Dichtung	literature	n	-en
+siegreich	victorious	adj
+gegen	against	prep	+acc
+der Bundesstaat	federal state	n	-en
+bedeutend	significant	adj
+folgen	to follow	v
+besonders	especially	adv
+entstehen (entstand)	to emerge, come into being	v
+die Weltstadt	metropolis	n	-̈e
+die Leistung	achievement	n	-en
+dunkel	dark	adj
+blutig	bloodz	adj
+die Schwäche	weakness	n	-n
+die Partei	political party	n	-en
+verhelfen (verhalf; verhilft)	to aid, help	v
+die Macht	power	n	-̈e
+führen	to lead	v
+schließlich	finally, eventually	adv
+die Rassenpolitik	racial policy	n
+tödlich	lethal	adj
+Konzentrations- und Vernichtungslager	concentration and death camps n	pl.
+das Lager	camp	n	-
+Roma und Sinti	gypsies	
+der Gegner	opponent	n	-
+erleben	to experience	v
+die Niederlage	defeat	n	-n
+Trümmer	ruins	n	pl.
+mehr als	more than	adv
+die Zerstörung	destruction	n
+der Wohnraum	living quarters	n
+betroffen von	affected by, hit by
+die Hauptstadt	capital city	n	-̈e
+unterzeichen	to sign	v
+der Einigungsvertrag	unification agreement	n	
+feiern	to celebrate
+die Vereinigung	unification
+seit	since	
+der Bundestag	parliament	n
+die Bundesregierung	federal government	n
+der Sitz	seat	n
+
+
+
+
+
+
