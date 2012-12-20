@@ -51,22 +51,16 @@ der/die	Delegierte	delegate (the one delegated)	n	-n
 nie wieder	never again
 das Rad	wheel	n	-̈er
 deklamieren	to declaim, recite	v
-wenn…will	if your strong arm wants is (to happen)
 auf einmal	suddenly
 hilfloß	helpless	adj
 schuld	guilty	adj
-ich hab angefangen davon	I started with that
-ich hab sie warnen wollen davor	I wanted to warn them about that
-jetzt kehrt es sich	now it turns
 heben (hob)	to raise	v
 abwehrend	in defense
 lächeln	to smile	v
 die Waffe	weapon	n	-n
 der Unterdrücker	oppressor	n	-
 heiser	hoarsely	adv
-wir haben…abgeschafft	we've abolished/done away with
 gewählt	elected	adj
-ein Zug bildete sich	a procession took shape
 an der Spitze	at the front
 rufen (rief)	to shout, call out	v
 im Takt	(rhythmically) in time
@@ -83,3 +77,10 @@ das Genie	genius	n	-s
 die Übung	practice	n	-en
 deswegen	therefore	adv
 die Wohnung	apartment, housing (pl.)	n	-en
+früher	earlier	adv
+holen	fetch, get	v
+das Rad	wheel	n	-¨er
+hilflos	helpless	adj
+marschieren	to march	v
+die Norm	the norm	n	-en
+leicht	slightly	adv
