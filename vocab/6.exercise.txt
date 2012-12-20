@@ -14,7 +14,6 @@ wissen (wusste, gewusst, weiß)	to know	v
 der Bericht	report	n	-e
 zeigen	to show, demonstrate	v
 wichtig	important	adj
-berühmt	famous	adj
 die Ausdauer	perseverance	n
 hoffnungslos	hopeless	adj
 unvermeidlich	unavoidable	adj
@@ -77,3 +76,10 @@ hinaus	away, outside	adv
 die Werkhalle	factory bulding	n	-n
 verstummen	to fall silent	v
 Auszug leicht geändert	slightly altered excerpt
+denn	because	adv
+die Zeitung	newspaper	n	-en
+engen	narrow, close	adj
+das Genie	genius	n	-s
+die Übung	practice	n	-en
+deswegen	therefore	adv
+die Wohnung	apartment, housing (pl.)	n	-en

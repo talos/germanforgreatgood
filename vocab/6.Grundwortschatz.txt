@@ -1,12 +1,12 @@
 allein	alone, only, but
 der Aufstand	revolt	n
 der Bauer	farmer	n-noun	-n
-bestehen aus (bestand)	to consist of	v
+bestehen aus (bestand)	to consist of	v	irreg
 bestimmt	certain, definite	adj
 brauchen	to need, require	v
 bzw. (beziehungsweise)	or, respectively
 damals	at that time, in those days	adv
-denken (dachte)	to think	v
+denken (dachte)	to think	v	irreg
 denken an	to think about
 eng	narrow	adj
 entdecken	to discover	v
@@ -26,7 +26,7 @@ die Meinung	opinion	n	-en
 menschlich	human, humane	adj
 möglich	possible	adj
 die Möglichkeit	possibility	n	-en
-nennen (nannte)	to name	v
+nennen (nannte)	to name	v	irreg
 niemand	nobody	indef pron
 die Regierung	government	n	-en
 die Reich	empire, state, realm	n	-e
