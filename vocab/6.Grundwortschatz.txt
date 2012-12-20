@@ -12,7 +12,7 @@ eng	narrow	adj
 entdecken	to discover	v
 die Erklärung	explanation, declaration	n	-en
 folgen	to follow	v
-geben (gab; gibt)	to give	v
+geben	to give	v	irreg
 es gibt	there is, there are
 glauben	to believe	v
 immer	always, ever	adv
@@ -34,6 +34,6 @@ sowohl…wie	both…and, not only…but also, …as well as
 unterstützen	to support	v
 die Unterstützung	support	n	-en
 die Untersuchung	investigation, examination	n	-en
-verstehen (verstand)	to understand	v
+verstehen	to understand	v	irreg
 das Werk	work, plant	n	-e
 die Zeit	time	n	-en

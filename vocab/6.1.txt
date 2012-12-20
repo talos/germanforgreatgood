@@ -33,11 +33,11 @@ um…willen	for the sake of	prep	+gen
 während	in the course of, during	prep	+gen
 wegen	on account of, because of	prep	+gen
 an	at, to, on (vertically)	prep	+dat/acc
-auf	on (horizontally), in, to	prep	+dat/acc
-hinter	behind	prep	+dat/acc
-in	in, into	prep	+dat/acc
-neben	next to, beside	prep	+dat/acc
-über	over, above, about, concerning, via	prep	+dat/acc
-unter	under, between, among	prep	+dat/acc
-vor	in front of, before, prior, ago	prep	+dat/acc
-zwischen	between, among	prep	+dat/acc
+auf	on (horizontally), in, to	prep	+dat (time/location)/acc (direction)
+hinter	behind	prep	+dat (location)/acc (direction)
+in	in, into	prep	+dat (time/location)/acc (direction)
+neben	next to, beside	prep	+dat (location)/acc (direction)
+über	over, above, about, concerning, via	prep	+dat (location)/acc (direction)
+unter	under, between, among	prep	+dat (time/location)/acc (direction)
+vor	in front of, before, prior, ago	prep	+dat (time/location)/acc (direction)
+zwischen	between, among	prep	+dat (time/location)/acc (direction)

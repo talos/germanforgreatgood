@@ -75,3 +75,9 @@ besetzen	to occupy (military)	v
 kaiserlich	imperial	adj
 weinend	crying, wailing	adj
 das Leiden	suffering	n	-
+der Sitz	the seat	n	-e
+das Bistum	the diocese	n	-er
+gotischen	Gothic	adj
+blad	soon	adv
+die Praxis	practice	n	[irreg plural]
+evangelisch	Protestant	adj
