@@ -82,9 +82,6 @@ seit	since
 der Bundestag	parliament	n
 die Bundesregierung	federal government	n
 der Sitz	seat	n
-
-
-
-
-
-
+die Grenze	border	n	-en
+zogen	move, attract	v
+die Wiedervereinigung	reunification	n	-en
