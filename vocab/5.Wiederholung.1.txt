@@ -1,4 +1,4 @@
-die Landschaft	landscape n	-en
+die Landschaft	landscape	n	-en
 die Landschaftzone	geographic region	n	-n
 das Tiefland	lowland	n	-̈er
 das Mittelgebirge	central chain of mountains	n	-
@@ -53,7 +53,7 @@ entstehen (entstand)	to emerge, come into being	v
 die Weltstadt	metropolis	n	-̈e
 die Leistung	achievement	n	-en
 dunkel	dark	adj
-blutig	bloodz	adj
+blutig	bloody	adj
 die Schwäche	weakness	n	-n
 die Partei	political party	n	-en
 verhelfen (verhalf; verhilft)	to aid, help	v
