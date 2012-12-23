@@ -29,7 +29,6 @@ die Möglichkeit	possibility	n	-en
 nennen (nannte)	to name	v	irreg
 niemand	nobody	indef pron
 die Regierung	government	n	-en
-die Reich	empire, state, realm	n	-e
 sowohl…wie	both…and, not only…but also, …as well as
 unterstützen	to support	v
 die Unterstützung	support	n	-en
