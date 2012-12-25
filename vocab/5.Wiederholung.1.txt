@@ -7,6 +7,7 @@ die Forsetzung	 continuation	n	-en
 höchst-	highest	pref
 die Erhebung	elevation	n	-en
 das Staatsgebeit	state territory	n	-e
+erreichen	to attain	v
 die Höhe	height	n	-n
 das Flachland	lowland, flatland	n	-̈er
 der See	lake	n	-n

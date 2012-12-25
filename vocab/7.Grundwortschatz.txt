@@ -19,8 +19,8 @@ geistig	intellectual, spiritual, mental	adj
 gelten (galt, gilt)	to be valid, to be true, to apply	strong (past, present 3rd)
 gleich	same, equal	adj
 glücklich	happy, fortunate	adj
-der Grieche	Greek	n	-n
-die Griechin	Greek	n	-nen
+der Grieche	Greek (male)	n	-n
+die Griechin	Greek (female)	n	-nen
 die Hälfte	half	n	-n
 das Interesse	interest	n	-n
 der Körper	body	n	-
