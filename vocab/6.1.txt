@@ -29,7 +29,7 @@ infolge	as a result of, due to	prep	+gen
 inmitten	in the midst of	prep	+gen
 mittels	by means of	prep	+gen
 trotz	in spite of	prep	+gen
-um…willen	for the sake of	prep	+gen
+um…willen	for the sake of	prep (x ... x)	+gen
 während	in the course of, during	prep	+gen
 wegen	on account of, because of	prep	+gen
 an	at, to, on (vertically)	prep	+dat/acc
