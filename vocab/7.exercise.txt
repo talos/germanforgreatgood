@@ -46,7 +46,7 @@ unergrünlich	unfathomable	adj
 der Traum	dream	n	-¨e
 bildende Künste	fine arts	n	pl.
 unter anderem	amonst other things
-die Wiederweckung	reawakening	n	-en
+die Wiedererweckung	reawakening	n	-en
 gesellschaftlich	social	adj
 sittlich	moral, ethical	adj
 die Bindung	bond, tie	n	-en
@@ -58,4 +58,18 @@ ganz	whole, all	adj
 wünschen	to wish	v
 die Tatsache	fact	n	-en
 laut	according to	prep	+dat
-der Bereich	area	n	-n
+die Einheit	unit, unity	n	-en
+der Glaube	belief	n	-
+die Sammlung	collection n	-en
+das Märchen	fairy tale, tale	n	-
+die Erzählung	tale, story	n	-en
+die Phantasie	imagination	n	-
+der Spuk	spook, ghost, nightmare	n	-
+die Wirklichkeit	reality, truth	n	-en
+faszinieren	to fascinate	v
+geistigen	intellectual	adj
+die Malerei	painting, art	n
+stellen	to set, provide	v
+die Schönheit	beauty	n	-en
+die Großartigkeit	magnificence	n
+schildern	to describe	v

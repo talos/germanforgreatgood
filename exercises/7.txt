@@ -103,7 +103,7 @@ in insight not only into the Berlin but also in the Jena Romantic.
      alle Bereiche des kulturellen und geistigen Lebens in Deutschland.
 
 The Romantic in the first half of the 19th century influenced nearly all
-areas of culture and of spiritual life in Germany.
+areas of culture and of intellectual life in Germany.
 
 20. Die literarische Form des Briefes hatte besonders in der Zeit der Romantik
     ihre Blütezeit.
@@ -118,7 +118,13 @@ verschiedener europäischer Länder.  In Deustschland dauerte sie von ungefähr
 1790 bis 1840.  Sie ist gekennzeichnet durch einen Abfall vom verstandesmäsigen
 Denken und von aller Nüchternheit.  Gefühl, Phantasie, Stimmung und Sehnsucht
 bewegten die Romantiker.  Ihre Sehnsucht trug sie aus der Wirklichkeit in eine
-gl¨ckliche Vergangenheit und in ferne Länder.
+glückliche Vergangenheit und in ferne Länder.
+
+* The Romantic was an aesthetic-literary epoch in the literature of various
+European countries.  In Germany it lasted from about 1790 to 1840.  It is
+characterized by a revolt from rational thinking and from all dullness.
+Feeling, fantasy, mood and desire move the romantics.  Their desire moved them
+from reality in a happy past and in distant lands.
 
 Die Romantiker "entdetckten" das Mittelalter wieder und schätzten an ihm die
 Einheit von Leben und christlichem Glauben.  Dieses Interesse an die
@@ -126,6 +132,13 @@ Vergangenheit führte zur Sammlung von Volksliedern, Sagen und Märchen (Brüder
 Grimm). In Märchen und Erzählungen mischen sich Phantasie, Spuk und
 Wirklichkeit.  Das Geheimnisvolle und Unergründliche, der Traum und die Nacht
 faszinierten das Denken der Romantiker.
+
+* The romantics "discovered" the Middle Ages again and thought highly of the
+unity of life and Christian belief.  This interest in the past led to a
+collection of folk songs, sayings and fairy tales (Brothers Grimm).  In the
+fairy tales and stories imagination, nightmare and reality were mixed together.
+The mysterious and unfathomable, the dream and the night fascinated the thought
+of the romantics.
 
 Die Romantik hatte einen starken Einfluss auf fast alle Bereiche des
 kulturellen und geistigen Lebens.  Sie beeinflusste die Kunst, Musik,
@@ -137,8 +150,23 @@ Naturstimmungen oder Gefühle.  Bekannte Namen in der Musik sind Weber, Schubert
 und Mendelssohn.  Im Gesellschaftlichen führte der romantische Subjektivismus
 zu neuen Alternativen der traditionellen sittlichen Bindungen.
 
+* The Romantic had a strong influence on nearly all realms of culture and
+intellectual life.  It influenced the art, music, philosophy and other areas.
+The fine arts, among other things the painting of the romantic, searched in
+the reawakening of the medieval world to find an ideal, harmonious world and
+represented the grandeur of nature.  With music the Romantics described
+natural moods or feelings.  The well-known names in music were Weber, Schubert
+and Mendelssohn.  In social things Romantic subjectivism led to new
+alternatives of traditional moral ties.
+
 Zum ersten Mal in der Romantik spielten Frauen auch eine große Rolle im
 geistigen Leben der deutschen Geschichte.  Vor allem aus den Briefen solcher
 geistreichen Frauen wie Bettina von Arnim und Caroline Schlegel-Schelling lernt
 man viel Interessantes über die Romantik: sowohl private biographische
 Ereignisse wie Berichte über die literarischen Salons.
+
+* For the first time in the Romantic women also played a great role in the
+intellectual life of German history.  Above all from the letters of such
+gifted women as Bettina von Arnim and Caroline Schlegel-Schelling one learns
+many interesting things about the Romantic: not only private biographical
+occurrences but also reports about the literary salons.
