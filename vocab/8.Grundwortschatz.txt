@@ -1,5 +1,5 @@
-an/fangen (fing…an, fängt…an)	v	strong (2)
-an/ziehen (zog…an)	v	strong (1)
+an/fangen (fing…an, fängt…an)	to begin	v	strong (2)
+an/ziehen (zog…an)	to attract	v	strong (1)
 die Aufgabe	task, problem, duty	n	-n
 aus/führen	to carry out, execute	v
 aus/üben	to exert	v
