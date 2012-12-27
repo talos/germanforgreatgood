@@ -80,3 +80,8 @@ vor/führen	to present	v
 stolz	proud(ly)	adj, adv
 der Schutz	protection	n	-
 das Schloss	castle	n	-¨er
+renovieren	renovate	v	
+der Besucher	visitor (male)	n	-er
+die Besucherin	visitor (female)	n	-innen
+manchmal	sometimes	adv
+der Zyklus	cycle	n	-en

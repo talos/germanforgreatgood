@@ -116,6 +116,8 @@ architecture and art depicts his relatively lesser known works.
 
 Dioramenmaler: Der nicht so gut bekannte Schinkel
 
+* Diorama painter: The not so well-known Schinkel
+
 Der Name Karl Friedrich Schinkel ist eng mit der Baugeschichte Berlins
 verbunden.  Seinen Namen assoziieren wir grundsätzlich mit dem klassischen Stil
 von Berliner Architektur.  Die besten Beispiele seines architektonischen
@@ -125,16 +127,36 @@ diesen Bauten brachte Schinkel Schönheit und Funktionalität zusammen, und in
 ihren neu renovierten aber im Wesentlichen erhaltenen Formen bietet sie dem
 heutigen Berlin-Besucher ein gutes Bild vom klassischen Berlin dar.
 
+* The name Karl Friedrich Schinkel is closely connected to the architectural
+history of Berlin.  We associate his name fundamentally with the classical
+style of Berlin Architecture. The New Guardhouse, the Schauspielhaus at
+Gendarme Sqquare and the Museum in the Pleasure Garden represent the best
+examples of his architectural craft.  In these buildings Schinkel combined
+beauty and functionality, and in their newly renovated but essentially
+preserved form they today present to the visitor to Berlin a good picture
+of classic Berlin.
+
 Weniger bekannt sind Schinkels Entwürfe und Auführungen von Dioramen und
 Panoramen in der Zeit der französischen Besetzung von Berlin (1806-1808).
+
+* Less well-known are Schinkel's sketches and realizations of dioramas and
+panoramas in the time of the French occupation of Berlin (1806-1808).
 
 Ein Panorama baut man in einem dunkel beleuchteten Raum auf.  Großformatige,
 runde Gemälde umgeben die Betrachter.  Man schaut die Gemälde von der Mitte
 des Raumes an.  Zu einem Diorama kommt zwischen dem Gemälde und dem Standort
 des Betrachters ein Rahmen oder eine Kolonne hinzu.  Das Resultat ist eine
 perspektivisch-optische Illusion.  Dreidimensionale Objekte (z.B. bei
-Landscaftspanoramen Sand, Stiene, Büsche usw.) effekt volle Beleuchtung und
+Landschaftspanoramen Sand, Stiene, Büsche usw.) effekt volle Beleuchtung und
 manchmal Musik steigern den Effekt der perspektivisch-optischen Gemälde.
+
+* A panorama is built in a a darkly lit room.  Large-format, circular paintings
+surround the viewers.  People view the paintings from the center of the room.
+At a diorama betwen the paintings and the position of the viewers a frame or
+a column is added.  The result is a two-vs-three dimensional optical illusion.
+The full lighting effects three-dimensional objects (for example
+landscape-panormas sand, stones, bushes etc.) and sometimes music increases the
+effect of the two-vs-three-dimensional optical paintings.
 
 Kaum fünfundzwanzig Jahre alt, fing Schinkel 1806 an, Panoramen und Dioramen zu
 produzieren.  1807 stellte er seinen ersten Zyklus von Dioramen aus: Große
@@ -144,3 +166,12 @@ spätere "klassische Baumeister von Berlin" über 40 Dioramen aus, und zu den
 berühmtesten Panoramen dieser Zeit zählt Schinkels 1808 gemaltes Panorama von
 Palermo (5m x 30m). Als Friedrich Wilhelm III. aus dem Exil nach Berlin
 zurückkehrte, führte ihm Schinkel seine Dioramen stolz vor.
+
+* Barely 25 years later, in 1806 Schinkel began, to produce dioramas and
+panoramas.  In 1807 he exhibited the first cycle from his diorama: great
+paintings of Constantinople, Jerusalem and Egyptian transported the viewers
+into a wolrd of illusion.  In the next eight years the latter "classical
+builder of Berlin" executed over 40 dioramas, and Schinkel's 1808 painted
+panorama of Palermo (5m x 30m) ranks among the most famous panoramas of this
+time.  When Friedrich Wilhelm III returned from exile to Berlin, Schinkel
+proudly presented his dioramas to him.
