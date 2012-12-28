@@ -1,19 +1,19 @@
-bekommen (bekam, bekommt)	to receive	v	strong (2)
-entkommen (entkam, entkommen)	to escape	v	strong (2)
-verkommen (verkam, verkommt)	to decay, to come down in the world	v	strong (2)
-ab/kommen (kam…ab, kommt…ab)	to come away, deviate	v	strong (2)
-an/kommen (kam…an, kommt…an)	to arrive	v	strong (2)
-auf/kommen (kam…auf, kommt…auf)	to come up	v	strong (2)
-aus/kommen (kam…aus, kommt…aus)	to get along (with), agree, get by	v	strong (2)
-ein/kommen (kam…ein, kommt…ein)	to come in	v	strong (2)
-her/kommen (kam…her, kommt…her)	to come from, originate	v	strong (2)
-hin/kommen (kam…hin, kommt…hin)	to come to	v	strong (2)
-mit/kommen (kam…mit, kommt…mit)	to accompany	v	strong (2)
-nach/kommen (kam…nach, kommt…nach)	to follow	v	strong (2)
-um/kommen (kam…um, kommt…um)	to perish, die	v	strong (2)
-vor/kommen (kam…vor, kommt…vor)	to occur, happen	v	strong (2)
-zurück/kommen (kam…zurück, kommt…zurück)	to return	v	strong (2)
-zusammen/kommen (kam…zusammen, kommt…zusammen)	to come together	v	strong (2)
+bekommen (bekam; bekommt)	to receive	v	strong (sp; 3p)
+entkommen (entkam; entkommen)	to escape	v	strong (sp; 3p)
+verkommen (verkam; verkommt)	to decay, to come down in the world	v	strong (sp; 3p)
+ab/kommen (kam…ab; kommt…ab)	to come away, deviate	v	strong (sp; 3p)
+an/kommen (kam…an; kommt…an)	to arrive	v	strong (sp; 3p)
+auf/kommen (kam…auf; kommt…auf)	to come up	v	strong (sp; 3p)
+aus/kommen (kam…aus; kommt…aus)	to get along (with), agree, get by	v	strong (sp; 3p)
+ein/kommen (kam…ein; kommt…ein)	to come in	v	strong (sp; 3p)
+her/kommen (kam…her; kommt…her)	to come from, originate	v	strong (sp; 3p)
+hin/kommen (kam…hin; kommt…hin)	to come to	v	strong (sp; 3p)
+mit/kommen (kam…mit; kommt…mit)	to accompany	v	strong (sp; 3p)
+nach/kommen (kam…nach; kommt…nach)	to follow	v	strong (sp; 3p)
+um/kommen (kam…um; kommt…um)	to perish, die	v	strong (sp; 3p)
+vor/kommen (kam…vor; kommt…vor)	to occur, happen	v	strong (sp; 3p)
+zurück/kommen (kam…zurück; kommt…zurück)	to return	v	strong (sp; 3p)
+zusammen/kommen (kam…zusammen; kommt…zusammen)	to come together	v	strong (sp; 3p)
 entfernen	to remove, take away from	v
 entwässern	to drain, take water away from, dehydrate	v
 entziehen	to withdraw, pull away from	v
@@ -21,6 +21,3 @@ zerbrechen	to break into pieces	v
 zerreißen	to rip into pieces	v
 zerschlagen	to beat up	v
 zerstören	to destroy	v
-
-
-

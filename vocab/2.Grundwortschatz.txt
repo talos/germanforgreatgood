@@ -34,7 +34,7 @@ neu	new	adj
 öffnen	to open	v	-en
 die Pflanze	plant	n
 regnen	to rain	v	-en
-sterben	to die	v	irreg
+sterben (stirbt; starb)	to die	v	irreg (sp; 3p)
 das Tier	animal	n
 ungefähr	approximately	adv
 untersuchen	to examine, investigate	v	-en

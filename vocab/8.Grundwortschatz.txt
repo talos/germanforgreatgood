@@ -1,5 +1,5 @@
-an/fangen (fing…an, fängt…an)	to begin	v	strong (2)
-an/ziehen (zog…an)	to attract	v	strong (1)
+an/fangen (fing…an; fängt…an)	to begin	v	strong (sp; 3p)
+an/ziehen (zog…an)	to attract	v	strong (sp)
 die Aufgabe	task, problem, duty	n	-n
 aus/führen	to carry out, execute	v
 aus/üben	to exert	v
@@ -12,8 +12,8 @@ dar/stellen	to represent, depict	v
 die Eigenschaft	property, quality	n	-en
 einfach	simple, simply	adj, adv
 die Einführung	introduction	n	-en
-ein/laden (lud…ein, lädt…ein)	to invite	v	strong (2)
-ein/nehmen (nahm…ein, nimmt…ein)	to take up, occupy	v	strong (2)
+ein/laden (lud…ein; lädt…ein)	to invite	v	strong (sp; 3p)
+ein/nehmen (nahm…ein; nimmt…ein)	to take up, occupy	v	strong (sp; 3p)
 ein/teilen	to divide, classify	v
 die Entdeckung	discovery	n	-en
 die Erziehung	education, upbringing	n
@@ -26,17 +26,17 @@ kaum	hardly	adv
 die Kraft	power, force, strength	n	-̈e
 die Reise	trip	n	-n
 sofort	immediately	adv
-statt/finden (fand…statt)	to take place, occur	v	strong (1)
+statt/finden (fand…statt)	to take place, occur	v	strong (sp)
 der Umweltschutz	environmental protection	n
-um/ziehen (zog…um)	to move	v	strong (1)
+um/ziehen (zog…um)	to move	v	strong (sp)
 der Ursprung	origin, source	n	-̈e
 ursprünglich	original(ly)	adj, adv
 die Veränderung	change	n	-en
 verhältnismäßig	relatively, comparatively	adv
-verstehen (verstand)	to understand	v	strong (1)
+verstehen (verstand)	to understand	v	strong (sp)
 die Vielfalt	diversity, variety, multiplicity	n
 die Voraussetzung	assumption, hypothesis	n	-en
-vor/ziehen (zog…vor)	to prefer	v	strong (1)
+vor/ziehen (zog…vor)	to prefer	v	strong (sp)
 wahrscheinlich	probably	adv
 weich	soft	adj
 weiß	while	adj

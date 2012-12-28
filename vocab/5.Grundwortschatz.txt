@@ -1,9 +1,9 @@
 all	all	pronoun	der word (pl.)
 als	as, when, than	adverb
 auf	on, upon	prep
-beginnen	to begin	v	i -> a
+beginnen (begann)	to begin	v	strong (sp)
 beide	both	pronoun	der word (pl.)
-bringen	to bring	v	irreg
+bringen (brachte)	to bring	v	irreg (sp)
 dieser	this, that, the latter	pronoun	der word
 die Entwicklung	development	n	-en
 das Ergebnis	result	n	-se
@@ -16,7 +16,7 @@ das Jahrzehnt	decade	n	-e
 jeder	each, every	pronoun	der word
 jener	that, the former	pronoun	der word
 die Kirche	church	n	-n
-kommen	to come	v	irreg
+kommen (kam)	to come	v	irreg (sp)
 der Krieg	war	n	-e
 leben	to live	v
 letzt	last	adj
@@ -26,16 +26,16 @@ manche	some, several	pronoun	der word (pl.)
 mehr	more	adj
 mit	with	prep
 nun	now	adv
-schaffen	to create	v	irreg
+schaffen (schuf)	to create	v	irreg (sp)
 schnell	rapid, fast	adj
 so	so, such	adv
 solcher	such	pronoun	der word
 die Stadt	city	n	-¨e
 stark	strong	adj
-steigen	to rise, climb	v	irreg
+steigen (stieg)	to rise, climb	v	irreg (sp)
 verschieden	various, different	adj
 von	of, from	prep
 vor	before, ago	prep
-werden	to become	v	irreg
-ziegen	to move, pull	v	irreg
+werden (wurde; wird)	to become	v	irreg (sp; 3p)
+ziegen (zog)	to move, pull	v	irreg (sp)
 zwischen	between	prep

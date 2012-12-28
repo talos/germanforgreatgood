@@ -4,7 +4,7 @@ leer	empty	adj
 finster	dark	adj
 der Geist	spirit	n	-er
 schweben	to hover	v
-scheiden	to separate, divide	v	ei -> ie
+scheiden (schied)	to separate, divide	v	strong (sp)
 die Finsternis	darkness	n	-se
 das Mittelalter	middle ages	n
 das Zentrum	center	n	um -> en
@@ -12,18 +12,18 @@ die Landeshauptstadt	state capital	n	-¨e
 die Wende	the turn	n	-n
 der Osten	east	n
 die Nachbarstadt	neighboring city	n	-¨e
-schlagen	to fasten to, nail to, hit	v	strong
+schlagen (schlug; schlägt)	to fasten to, nail to, hit	v	strong (sp; 3p)
 die Tür	door	n	-en
 der Maler	painter	n	-
 die Darstellung	portrayal	n	-en
 der Vordergrund	foreground	n	-¨e
-überstehen	to withstand	v	irreg
+überstehen (überstand)	to withstand	v	irreg (sp)
 der Zuwachs	growth	n
 stiegen	to rise	v
 schwierig	difficult	adj
 unmöglich	impossible	adj
-klingen	sound	v	i -> a
-empfinden	to feel, sense, perceive	v	i -> a
+klingen (klang)	sound	v	strong (sp)
+empfinden (empfand)	to feel, sense, perceive	v	strong (sp)
 der Niedergang	decline	n
 fordern	to demand, advocate	v
 kräftig	powerful, vigorous	adj
@@ -46,17 +46,17 @@ die Halbkugel	hemisphere	n	-eln
 der Kaiser	emperor	n	-
 die Abtei	abbey	n	-en
 der Erzbischof	archbishop	n	-¨e
-übersehen	oversee	v
+übersehen (übersah; übersieht)	oversee	v	irreg (sp; 3p)
 die Lieblingsresidenz	favorite residence	n	-en
 der Dom	cathedral	n	
 begraben	buried	adj
-brennen	to burn	v
+brennen (brannte)	to burn	v	irreg (sp)
 ursprünglich	original	adj
 der Sakralbau	sacred building	n
 der Boden	ground, territory	n
 vollenden	to complete	v
 der Turm	tower, steeple	n	-¨e
-bekommen	to get, obtain	v
+bekommen (bekam)	to get, obtain	v	strong (sp)
 immer mehr	more and more
 das Mittelalter	middle ages	n	
 aufwendig	expensive	adj

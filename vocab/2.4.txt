@@ -1,4 +1,4 @@
-haben	to have	v	irreg
+haben (hatte, hat; gehabt)	to have	v	irreg (sp, pp; 3p)
 ich habe	I have
 du hast	you have
 er/sie/es hat	he/she/it has

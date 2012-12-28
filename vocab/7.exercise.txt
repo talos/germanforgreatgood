@@ -2,7 +2,7 @@ die Wirtschaftskrise	economic crisis, depression	n	-n
 der Arbeitslose	unemployed person	n	-n (male or female, here male)
 die Verwandte	relative	n	-n (male or female, here female)
 der Bekannte	acquaintance	n	-n (male or female, here male)
-ergeben (ergab, ergibt)	to yield, give, show	v	irreg (past stem, 3rd sing)
+ergeben (ergab; ergibt)	to yield, give, show	v	irreg (sp; 3p)
 verteilen	to distribute	v
 das Vermögen	wealth	n	-
 die Nächstenliebe	love for one's fellow man, charity	n

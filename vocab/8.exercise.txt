@@ -7,7 +7,7 @@ der Staatszweck	civic goal, purpose	n	-e
 konsequent	consistent, ongoing
 die Klimaänderung	climatic change	n	-en
 Abbau der Ozonschicht	depletion of the ozone layer
-der Rückgang	decline	n	-̈e
+der Rückgang	decline	n	-¨e
 prägen	to coin, give something a characteristic look	v
 fast	nearly	adv
 eigenhändig	single-handedly
@@ -18,32 +18,32 @@ umzugestalten 	to reconfigure	v	+zu construction
 das Zeughaus	military storehouse	n	-̈er
 der Sinn	sense	n	-e
 verschnörkelt	ornate	adj
-auf/heben (hob…auf)	to suspend, repeal	v	strong (1)
+auf/heben (hob…auf)	to suspend, repeal	v	strong (sp)
 Verbot gegen die Ansiedlung von Juden	prohibition of Jewish immigration
 verfolgt	prosecuted	adj
-verbringen (verbrachte)	to spend	v	strong (1)
+verbringen (verbrachte)	to spend	v	strong (sp)
 der Lebensabend	last days of one's life	n	-e
-bekannt/geben (gab…bekannt, gibt…bekannt)	to make known, make public	v	irreg (2)
+bekannt/geben (gab…bekannt; gibt…bekannt)	to make known, make public	v	irreg (sp; 3p)
 Röntgen	Wilhelm Konrad Roentgen (1845-1923, discoverer of x-ray)	
 selbstgebaut	built by themselves, home-made	adj
 der Doppeldecker	double decker	n
 der Flug	flight	n	-̈e
-zusammen/stoßen (stieß…zusammen, stößt…zusammen)	to collide	v	strong (2)
-unter/gegen (ging…unter)	to sink	v	strong (1)
+zusammen/stoßen (stieß…zusammen; stößt…zusammen)	to collide	v	strong (sp; 3p)
+unter/gegen (ging…unter)	to sink	v	strong (sp)
 glaubwürdig	believable, worthy of believing	adj
 ab/zählen	to count down	v
 hinzu/fügen	to add (to)	v
 schließlich	finally	adv
-ein/schließen (schloss…ein)	to include	v	strong (1)
+ein/schließen (schloss…ein)	to include	v	strong (sp)
 vorliegend	present, currently under discussion	adj
 eng verbunden mit	closely connected to
 das Handwerk	craft, trade	n
 Neue Wache	New Guardhouse
 Gendarmentmarkt	(Berlin's) Gendarme Square
 der Lustgarden	Pleasure Garden	n
-zusammen/bringen (brachte…zusammen)	to combine, bring together	v	strong (1)
+zusammen/bringen (brachte…zusammen)	to combine, bring together	v	strong (sp)
 im Wesentlichen erhalten	essentially preserved
-dar/bieten (bat…dar)	to offer, present (to)	v	strong (1)
+dar/bieten (bat…dar)	to offer, present (to)	v	strong (sp)
 der Entwurf	sketch, draft	n	-̈e
 die Ausführung	realization (of project)	n	-en
 das Diorama	diorama	n	-men
@@ -56,11 +56,11 @@ der Raum	space, room	n	-̈e
 großformatig	large-format	adj
 rund	round, circular	adj
 das Gemälde	painting	n	-
-umgeben (umgab, umgibt)	to surround	v	irreg (2)
+umgeben (umgab; umgibt)	to surround	v	irreg (sp; 3p)
 der Betrachter	viewer	n	-
 an/schauen	to look at, view	v
 die Mitte	middle, center	n
-hinzu/kommen (kam…hinzu, kommt…hinzu)	to be added to	v strong (2)
+hinzu/kommen (kam…hinzu; kommt…hinzu)	to be added to	v strong (sp; 3p)
 der Standort	position	n	-e
 der Rahmen	frame, border	n	-
 die Kolonne	column	n	-

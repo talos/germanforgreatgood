@@ -1,22 +1,22 @@
 allein	alone, only, but
 der Aufstand	revolt	n
 der Bauer	farmer	n-noun	-n
-bestehen aus (bestand)	to consist of	v	irreg
+bestehen aus (bestand)	to consist of	v	irreg (sp)
 bestimmt	certain, definite	adj
 brauchen	to need, require	v
 bzw. (beziehungsweise)	or, respectively
 damals	at that time, in those days	adv
-denken (dachte)	to think	v	irreg
+denken (dachte)	to think	v	irreg (sp)
 denken an	to think about
 eng	narrow	adj
 entdecken	to discover	v
 die Erklärung	explanation, declaration	n	-en
 folgen	to follow	v
-geben	to give	v	irreg
+geben (gab; gibt)	to give	v	irreg (sp; 3p)
 es gibt	there is, there are
 glauben	to believe	v
 immer	always, ever	adv
-war schon immer	has always been	
+war schon immer	has always been
 jemand	somebody, anybody	indef pron
 kaum	hardly	adv
 die Kirche	church	n	-n
@@ -26,13 +26,13 @@ die Meinung	opinion	n	-en
 menschlich	human, humane	adj
 möglich	possible	adj
 die Möglichkeit	possibility	n	-en
-nennen (nannte)	to name	v	irreg
+nennen (nannte)	to name	v	irreg (sp)
 niemand	nobody	indef pron
 die Regierung	government	n	-en
 sowohl…wie	both…and, not only…but also, …as well as
 unterstützen	to support	v
 die Unterstützung	support	n	-en
 die Untersuchung	investigation, examination	n	-en
-verstehen	to understand	v	irreg
+verstehen (verstand)	to understand	v	irreg (sp)
 das Werk	work, plant	n	-e
 die Zeit	time	n	-en
