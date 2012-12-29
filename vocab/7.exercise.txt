@@ -72,4 +72,4 @@ die Malerei	painting, art	n
 stellen	to set, provide	v
 die Schönheit	beauty	n	-en
 die Großartigkeit	magnificence	n
-schildern	to describe	v
+schildern	to describe, depict, portray	v

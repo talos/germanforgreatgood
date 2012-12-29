@@ -1,38 +1,38 @@
-befehlen	to order	v	e to ie
-brechen	to break	v	e to i
-empfehlen	to recommend	v	e to ie
-erschrecken	to frighten	v	e to i
-essen	to eat	v	e to i
-fressen	to devour	v	e to i
-geben	to give	v	e to i
-geschehen	to happen	v	e to ie (in 3rd person only)
-helfen	to help	v	e to i
-lesen	to read	v	e to ie
-messen	to measure	v	e to i
-sehen	to see	v	e to ie
-sprechen	to speak	v	e to i
-stehlen	to steal	v	e to ie
-sterben	to die	v	e to i
-tragen	to carry, bear	v	a to ä
-treffen	to meet, hit	v	e to i
-treten	to tread, step	v	e to i
-verbergen	to hide	v	e to i
-vergessen	to forget	v	e to i
-werden	to become	v	e to i
-werfen	to throw	v	e to i
-backen	to bake	v	a to ä
-empfangen	to receive	v	a to ä
-fallen	to fall	v	a to ä
-fahren	to drive, ride	v	a to ä
-fangen	to catch	v	a to ä
-halten	to hold	v	a to ä
-laden	to load	v	a to ä
-lassen	to allow, let	v	a to ä
-raten	to advise	v	a to ä
-schlafen	to sleep	v	a to ä
-schlagen	to hit	v	a to ä
-wachsen	to grow	v	a to ä
-waschen	to wash	v	a to ä
-laufen	to run	v	au to äu
-saufen	to drink, guzzle	v	au to äu
-stoßen	to push	v	o to ö
+befehlen (befahl, befohlen; befiehlt)	to order	v	irreg (sp, pp; 3p)
+brechen (brach, gebrochen; bricht)	to break	v	irreg (sp, pp; 3p)
+empfehlen (empfahl, empfohlen; empfiehlt)	to recommend	v	irreg (sp, pp; 3p)
+#erschrecken (erschrak; erschreckt)	to frighten	v	irreg (sp, pp; 3p)
+essen (aß, gegessen; isst)	to eat	v	irreg (sp, pp; 3p)
+fressen (fraß; frisst)	to devour	v	irreg (sp; 3p)
+geben (gab; gibt)	to give	v	irreg (sp; 3p)
+geschehen (geschah, geschehen; geschieht)	to happen, occur, take place	v	irreg (sp, pp; 3p)
+helfen (half, geholfen; hilft)	to help	v	irreg (sp, pp; 3p)
+lesen (las; liest)	to read	v	irreg (sp; 3p)
+messen (maß; misst)	to measure	v	irreg (sp; 3p)
+#sehen (sah; sieht)	to see	v	irreg (sp; 3p)
+sprechen (sprach, gesprochen; spricht)	to speak	v	irreg (sp, pp; 3p)
+stehlen (stahl, gestohlen; stiehlt)	to steal	v	irreg (sp, pp; 3p)
+sterben (starb, gestorben; stirbt)	to die	v	irreg (sp, pp; 3p)
+tragen (trug; trägt)	to carry, bear	v	irreg (sp; 3p)
+treffen (traf, getroffen; trifft)	to meet, hit	v	irreg (sp, pp; 3p)
+treten (trat; tritt)	to tread, step	v	irreg (sp; 3p)
+#verbergen	to hide	v	e to i
+vergessen (vergaß, vergessen; vergisst)	to forget	v	irreg (sp, pp; 3p)
+werden (wurde [ward], geworden; wird)	to become	v	irreg (sp [sp archaic], pp; 3p)
+werfen (warf, geworfen; wirft)	to throw	v	irreg (sp, pp; 3p)
+backen (buk [backte]; bäckt)	to bake	v	irreg (sp [sp alt]; 3p)
+#empfangen	to receive	v	
+fallen (fiel; fallt)	to fall	v	irreg (sp; 3p)
+fahren (fuhr; fährt)	to drive, ride	v	irreg (sp; 3p)
+fangen (fing; fängt)	to catch	v	irreg (sp; 3p)
+halten (hielt; hält)	to hold	v	irreg (sp; 3p)
+laden (lud, lädt)	to load	v	irreg (sp; 3p)
+lassen (ließ; lässt)	to allow, let	v	irreg (sp; 3p)
+raten (riet; rät)	to advise	v	irreg (sp; 3p)
+schlafen (schlief; schläft)	to sleep	v	irreg (sp; 3p)
+schlagen (schlug; schlägt)	to hit	v	irreg (sp; 3p)
+wachsen (wuchs; wächst)	to grow	v	irreg (sp; 3p)
+waschen (wusch; wäscht)	to wash	v	irreg (sp; 3p)
+laufen (lief; lauft)	to run	v	irreg (sp; 3p)
+saufen (soff, gesoffen; sauft)	to drink, guzzle	v	irreg (sp, pp; 3p)
+stoßen (stieß; stößt)	to push	v	irreg (sp, pp; 3p)

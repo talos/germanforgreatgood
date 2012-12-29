@@ -11,7 +11,7 @@ hin/kommen (kam…hin; kommt…hin)	to come to	v	strong (sp; 3p)
 mit/kommen (kam…mit; kommt…mit)	to accompany	v	strong (sp; 3p)
 nach/kommen (kam…nach; kommt…nach)	to follow	v	strong (sp; 3p)
 um/kommen (kam…um; kommt…um)	to perish, die	v	strong (sp; 3p)
-vor/kommen (kam…vor; kommt…vor)	to occur, happen	v	strong (sp; 3p)
+vor/kommen (kam…vor; kommt…vor)	to occur, happen, exist	v	strong (sp; 3p)
 zurück/kommen (kam…zurück; kommt…zurück)	to return	v	strong (sp; 3p)
 zusammen/kommen (kam…zusammen; kommt…zusammen)	to come together	v	strong (sp; 3p)
 entfernen	to remove, take away from	v
