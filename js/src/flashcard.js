@@ -45,7 +45,7 @@ $(document).ready(function () {
             $correct.text('0');
             data.xhr.done(function (resp) {
                 var hrefVocab = _.map(_.filter(resp.split('\n'), function (line) {
-                    return line !== '';
+                    return line !== '' && line[0] !== '#';
                 }), function (line) {
                     var lineSplit = line.split('\t');
                     return {

@@ -29,7 +29,7 @@ Behinderte	disabled individuals	n	pl.
 unbegrenzt	unlimited	adj
 der Ort	place	n	-en
 der Roman	novel	n	-e
-VEB Merkur (volkseigener Betrieb)	(GDR) state-owned factory 'Merkur'
+#VEB Merkur (volkseigener Betrieb)	(GDR) state-owned factory 'Merkur'
 unruhig	discontent	adj
 parteitreu	true to the (communist SED) party adj
 der Kollege	co-worker, colleague	n-noun	-n
