@@ -11,7 +11,7 @@ der Rückgang	decline	n	-¨e
 prägen	to coin, give something a characteristic look	v
 fast	nearly	adv
 eigenhändig	single-handedly
-Der Große Kurfürst	The Great Elector
+#der Große Kurfürst	The Great Elector
 auf/fordern	to call upon, command, invite	v
 der Hofarchitekt	court architect	n-noun	
 umzugestalten 	to reconfigure	v	+zu construction

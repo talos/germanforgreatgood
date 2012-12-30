@@ -32,7 +32,7 @@ noch nicht	not yet
 politisch	political	adj
 der Roman	novel	n	-e
 schon	already	adv
-wir wissen es schon lange	we have known it for a long time
+#wir wissen es schon lange	we have known it for a long time
 schwierig	difficult
 der Stil	style	n	-e
 tot	dead	adj
