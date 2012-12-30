@@ -30,7 +30,7 @@ das Nebenfach	minor field (of study)	n	-¨er
 nur	only	adv
 schreiben	to write	v
 sehen (sah; sieht)	to see	v	irreg (sp; 3p)
-sein	his, its (as pronoun, not verb)	pronoun
+sein	his, its	pronoun
 sondern	but (rather)	conj
 die Sonne	sun	n	-n
 der Stamm	tribe, stem	n	-¨e
