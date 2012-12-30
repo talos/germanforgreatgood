@@ -13,13 +13,13 @@ der Gottesdienst	religious service	n	-e
 die Vorschrift	rule	n	-en
 die Lebensführung	lifestyle	n	-en
 die Vorlesung	lecture	n	-en
-halten	to hold	v	a to ä
+halten (hielt; hält)	to hold	v	irreg (sp; 3p)
 die Tätigkeit	activity	n	-en
 die Untätigkeit	inactivity	n	-en
 die Niederschlagsmenge	amount of precipitation	n	-n
 der Schnee	snow	n	
 der Kuckuck	cuckoo	n	-e
-werfen	to throw	v	e to i
+werfen (warf, geworfen; wirft)	to throw	v	irreg (sp, pp; 3p)
 der Ei	egg	n	-er
 die Pflegeeltern	foster parents	n	pl.
 füttern	to feed	v

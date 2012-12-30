@@ -2,21 +2,21 @@ also	thus, therefore	adv
 ander-	other, different	prefix
 der Anfang	beginning, origin	n	-¨e
 aus	out of, from	prep
-beschreiben	to describe	v
-betragen	to amount to, come to, be	v	a to ä
+beschreiben	to describe, depict, portray, (paper) to write on	v
+betragen (betrug, betgragen; beträgt)	to amount to, come to, be	v	irreg (sp, pp; 3p)
 bis	until	prep
 der Brief	letter	n	-e
 dein	yours, your (singular informal)	adj
 dritt-	third	prefix
 durch	through, by	prep
-enthalten	to contain, include	v	a to ä
-essen	to eat	v	e to i
-fallen	to fall	v	a to ä
+enthalten (enthielt, enthalten; enthält)	to contain, include	v	irreg (sp, pp; 3p)
+essen (aß, gegessen; isst)	to eat	v	irreg (sp, pp; 3p)
+fallen (fiel; fallt)	to fall	v	irreg (sp; 3p)
 die Form	form, shape, type	n	-en
 frei	free, unconnected	adj
 für	for, in favor of	prep
-geben	to give	v	e to i
-es gibt	there is, there are	
+geben (gab; gibt)	to give	v	irreg (sp; 3p)
+es gibt	there is, there are
 das Hauptfach	major field (of study)	n	-¨er
 heutig	present	adj
 ihr	her, its, their	pronoun
@@ -29,7 +29,7 @@ nach	after, to	prep
 das Nebenfach	minor field (of study)	n	-¨er
 nur	only	adv
 schreiben	to write	v
-sehen	to see	v	e to ie
+sehen (sah; sieht)	to see	v	irreg (sp; 3p)
 sein	his, its (as pronoun, not verb)	pronoun
 sondern	but (rather)	conj
 die Sonne	sun	n	-n
