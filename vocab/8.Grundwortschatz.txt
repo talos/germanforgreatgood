@@ -1,11 +1,11 @@
-an/fangen (fing…an; fängt…an)	to begin	v	strong (sp; 3p)
-an/ziehen (zog…an)	to attract	v	strong (sp)
+an/fangen (fing…an; fängt…an)	to begin	v	irreg (sp; 3p)
+an/ziehen (zog…an)	to attract	v	irreg (sp)
 die Aufgabe	task, problem, duty	n	-n
 aus/führen	to carry out, execute	v
 aus/üben	to exert	v
 aus/wandern	to emigrate	v
 der Bau	construction, building	n	-ten
-besitzen (besaß)	to possess, have	v
+besitzen (besaß, besessen)	to possess, have	v	(sp, pp)
 der Bruder	brother	n	-̈e
 daher	therefore, hence	conj
 dar/stellen	to represent, depict	v

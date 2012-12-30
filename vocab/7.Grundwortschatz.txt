@@ -10,13 +10,13 @@ der Einfluss	influence	n	-¨e
 einzig	only, single	adj
 entwickeln	to develop	v
 etwas	something, some, somewhat
-finden (fand)	to find	v	strong (sp)
+finden (fand, gefunden)	to find	v	strong (sp, pp)
 das Flugzeug	airplane	n	-e
 früh	early	adj
 führen	to lead	v
 führen zu	to lead to	v
 geistig	intellectual, spiritual, mental	adj
-gelten (galt; gilt)	to be valid, to be true, to apply	strong (sp; 3p)
+gelten (galt, gegolten; gilt)	to be valid, to be true, to apply	strong (sp, pp; 3p)
 gleich	same, equal	adj
 glücklich	happy, fortunate	adj
 der Grieche	Greek (male)	n	-n
@@ -38,4 +38,4 @@ der Stil	style	n	-e
 tot	dead	adj
 tragen (trug; trägt)	to carry, bear, wear	v	strong (sp; 3p)
 wesentlich	essential, important, considerable	adj
-wissen (wusste; weiß)	to know (facts)	v	irreg (sp; 3p)
+wissen (wusste, gewusst; weiß)	to know (facts)	v	irreg (sp, pp; 3p)

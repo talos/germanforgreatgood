@@ -4,9 +4,9 @@ der Bauer	farmer	n-noun	-n
 bestehen aus (bestand)	to consist of	v	irreg (sp)
 bestimmt	certain, definite	adj
 brauchen	to need, require	v
-bzw. (beziehungsweise)	or, respectively
+#bzw. (beziehungsweise)	or, respectively
 damals	at that time, in those days	adv
-denken (dachte)	to think	v	irreg (sp)
+denken (dachte, gedacht)	to think	v	irreg (sp, pp)
 denken an	to think about
 eng	narrow	adj
 entdecken	to discover	v
