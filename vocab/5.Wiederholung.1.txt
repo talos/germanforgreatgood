@@ -73,7 +73,7 @@ mehr als	more than	adv
 die Zerstörung	destruction	n
 der Wohnraum	living quarters	n
 betroffen von	affected by, hit by
-die Hauptstadt	capital city	n	-̈e
+#die Hauptstadt	capital city	n	-¨e
 unterzeichen	to sign	v
 der Einigungsvertrag	unification agreement	n	
 feiern	to celebrate
@@ -82,6 +82,6 @@ seit	since
 der Bundestag	parliament	n
 die Bundesregierung	federal government	n
 der Sitz	seat	n
-die Grenze	border	n	-en
+#die Grenze	border	n	-en
 zogen	move, attract	v
 die Wiedervereinigung	reunification	n	-en

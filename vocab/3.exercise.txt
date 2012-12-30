@@ -51,4 +51,4 @@ das Landhaus	country house	n	-¨er
 die Nähe	proximity	n	-
 der Tod	death	n	-e
 überschreiten	to cross over	v
-die Grenze	boundary, border	n	-n
+#die Grenze	boundary, border	n	-n

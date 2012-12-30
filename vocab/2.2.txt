@@ -6,7 +6,7 @@ enden	end	v
 gewinnen (gewann, gewonnen)	to gain, win	v	irreg (sp, pp)
 hängen (hing, gehangen)	to hang	v	irreg (sp, pp)
 #helfen (half, geholfen; hilft)	to help	v	irreg (sp, pp; 3p)
-hören	to hear	v
+#hören	to hear	v
 #kosten	to cost	v
 landen	to land	v
 lernen	to learn	v

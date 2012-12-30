@@ -24,7 +24,7 @@ gestern	yesterday	adj
 die Idee	idea	n	-n
 das Jahrundert	century	n	-e
 kaufen	to buy	v
-die Lehre	teaching, doctrine	n	-n
+#die Lehre	teaching, doctrine	n	-n
 die Luft	air	n	-¨e	air
 die Ökologie	ecology	n
 der Regisseur	director (male)	n
