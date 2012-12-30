@@ -16,8 +16,8 @@ zurück/kommen (kam…zurück; kommt…zurück)	to return	v	strong (sp; 3p)
 zusammen/kommen (kam…zusammen; kommt…zusammen)	to come together	v	strong (sp; 3p)
 entfernen	to remove, take away from	v
 entwässern	to drain, take water away from, dehydrate	v
-entziehen	to withdraw, pull away from	v
-zerbrechen	to break into pieces	v
-zerreißen	to rip into pieces	v
-zerschlagen	to beat up	v
+entziehen (entzog, entzogen; entzieht)	to withdraw, pull away from	v	irreg (sp, pp; 3p)
+zerbrechen (zerbrach, zerbrochen; zerbricht)	to break into pieces	v	irreg (sp, pp; 3p)
+zerreißen (zerriss, zerrissen; zerreißt)	to rip into pieces	v	irreg (sp, pp; 3p)
+zerschlagen (zerschlug, zerschlagen; zerschlägt)	to beat up	v sp, pp; 3p)
 zerstören	to destroy	v

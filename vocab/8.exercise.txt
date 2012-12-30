@@ -60,7 +60,7 @@ umgeben (umgab; umgibt)	to surround	v	irreg (sp; 3p)
 der Betrachter	viewer	n	-
 an/schauen	to look at, view	v
 die Mitte	middle, center	n
-hinzu/kommen (kam…hinzu; kommt…hinzu)	to be added to	v strong (sp; 3p)
+hinzu/kommen (kam…hinzu; kommt…hinzu)	to be added to	v	strong (sp; 3p)
 der Standort	position	n	-e
 der Rahmen	frame, border	n	-
 die Kolonne	column	n	-
