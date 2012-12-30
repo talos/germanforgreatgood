@@ -1,53 +1,52 @@
-beginnen	begin	v	-en
-bringen	bring	v	-en
-enden	end	v	-en
-finden	find	v	-en
-geben	give	v	-en
-gewinnen	win	v	-en
-hängen	hang	v	-en
-helfen	help	v	-en
-hören	hear	v	-en
-kosten	cost	v	-en
-landen	land	v	-en
-lernen	learn	v	-en
-salzen	salt	v	-en
-scheinen	seem	v	-en
-schwimmen	swim	v	-en
-senden	send	v	-en
-setzen	set	v	-en
-singen	sing	v	-en
-sinken	sink	v	-en
-sitzen	sit	v	-en
-springen	spring	v	-en
-starten	start	v	-en
-stinken	stink	v	-en
-stoppen	stop	v	-en
-trinken	drink	v	-en
-wandern	wander	v	-en
-waschen	wash	v	-en
-analysieren	analyze	v	-ieren
-argumentieren	argue	v	-ieren
-debattieren	debate	v	-ieren
-demonstrieren	demonstrate	v	-ieren
-dokumentieren	document	v	-ieren
-dominieren	dominate	v	-ieren
-evakuieren	evacuate	v	-ieren
-evaluieren	evaluate	v	-ieren
-fotografieren	photograph	v	-ieren
-funktionieren	function	v	-ieren
-informieren	inform	v	-ieren
-investieren	invest	v	-ieren
-kombinieren	combine	v	-ieren
-kommentieren	comment	v	-ieren
-komplimentieren	compliment	v	-ieren
-komplizieren	complicate	v	-ieren
-nominieren	nominate	v	-ieren
-protestieren	protest	v	-ieren
-qualifizieren	qualify	v	-ieren
-quantifizieren	quantify	v	-ieren
-rationalisieren	rationalize	v	-ieren
-reparieren	repair	v	-ieren
-rehabilitieren	rehabilitate	v	-ieren
-studieren	study	v	-ieren
-trainieren	train	v	-ieren
-
+#beginnen (begann, begonnen)	to begin	v	strong (sp, pp)
+bringen (brachte)	to bring	v	irreg (sp)
+enden	end	v
+#finden (fand, gefunden)	to find	v	irreg (sp, pp)
+#geben (gab; gibt)	to give	v	irreg (sp; 3p)
+gewinnen (gewann, gewonnen)	to gain, win	v	irreg (sp, pp)
+hängen (hing, gehangen)	to hang	v	irreg (sp, pp)
+#helfen (half, geholfen; hilft)	to help	v	irreg (sp, pp; 3p)
+hören	to hear	v
+#kosten	to cost	v
+landen	to land	v
+lernen	to learn	v
+salzen	to salt	v
+scheinen (schien; scheint)	to seem, appear	v	irreg (sp; 3p)
+schwimmen (schwamm, geschwommen)	to swim	v	irreg (sp, pp)
+senden (sandte/sendete, gesandt/gesendet)	to send	v	irreg (sp/alt, pp/alt)
+setzen	to set	v
+singen (sang, gesungen)	to sing	v	irreg (sp, pp)
+sinken (sank, gesunken)	to sink	v	irreg (sp, pp)
+sitzen (saß, gesessen)	to sit	v	irreg (sp, pp)
+springen (sprang, gesprungen)	to spring	v	irreg (sp, pp)
+starten	to start	v
+stinken (stank, gestunken)	to stink	v	irreg (sp, pp)
+stoppen	to stop	v
+trinken (trank, getrunken)	to drink	v	irreg (sp, pp)
+wandern	to wander	v
+waschen (wusch; wäscht)	to wash	v	irreg (sp; 3p)
+analysieren	to analyze	v
+argumentieren	to argue	v
+debattieren	debate	v
+demonstrieren	to demonstrate	v
+dokumentieren	to document	v
+dominieren	to dominate	v
+evakuieren	to evacuate	v
+evaluieren	to evaluate	v
+fotografieren	to photograph	v
+funktionieren	to function	v
+informieren	to inform	v
+investieren	to invest	v
+kombinieren	to combine	v
+kommentieren	to comment	v
+komplimentieren	to compliment	v
+komplizieren	to complicate	v
+nominieren	to nominate	v
+protestieren	to protest	v
+qualifizieren	to qualify	v
+quantifizieren	to quantify	v
+rationalisieren	to rationalize	v
+reparieren	to repair	v
+rehabilitieren	to rehabilitate	v
+studieren	to study	v
+trainieren	to train	v
