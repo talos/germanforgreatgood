@@ -32,7 +32,7 @@ das Österreich	Austria	n
 sagen	to say	v
 schön	beautiful, nice	adj
 sehr	very	adv
-sein (war, gewsen; ist)	to be	v	(sp, pp; 3p)
+sein (war, gewesen; ist)	to be	v	(sp, pp; 3p)
 die Stadt	city	n
 studieren	to go to college/university	v
 der Tag	day	n

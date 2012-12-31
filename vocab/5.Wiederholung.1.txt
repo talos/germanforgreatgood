@@ -47,7 +47,7 @@ siegreich	victorious	adj
 gegen	against	prep	+acc
 der Bundesstaat	federal state	n	-en
 bedeutend	significant	adj
-folgen	to follow	v
+#folgen	to follow, succeed, obey	v
 besonders	especially	adv
 entstehen (entstand)	to emerge, come into being	v
 die Weltstadt	metropolis	n	-̈e
