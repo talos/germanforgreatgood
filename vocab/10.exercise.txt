@@ -1,0 +1,42 @@
+aus/stellen	to exhibit	v
+die Vielfalt	diversity	n	-
+die Sammlung	collection	n	-en
+die Schenkung	gift, donation	n	-en
+der Druck	print	n	-e
+#auf mehr als	to more than
+die Zeichnung	drawing	n	-en
+die Rettung	rescue	n	-en
+gefährden	to endanger	v
+bedrohen	to threaten	v
+der Erfolg	success	n	-e
+gedeihen	to flourish	v
+der Nährstoff	nutrient	n	-e
+ein/dringen (drang…ein, ist eingedrungen)	to penetrate	v	irreg (sp, pp)
+feste	fixed	adj
+ab/fassen	to write, compose	v
+auf/nehmen (nahm…auf, aufgenommen; nimmt…auf) to adopt, take up	v	irreg (sp, pp; 3p)
+vereinigen	to combine, unify
+die Behauptung	assertion, statement	n	-en
+egreifend	gripping	adj
+mehrfach	multiple	adj
+ununterbrochen	uninterrupted	adj
+beschleunigen	to accelerate	v
+das Wachstum	growth	n
+zusammen/drängen	to compress	v
+wieder/geben (gab…wieder, wiedergegeben; gibt…wieder)	to reproduce	v	irreg (sp, pp; 3p)
+aufrecht/erhalten (erhielt…aufrecht, aufrechterhalten; erhält…aufrecht)	to maintain	v	irreg (sp, pp; 3p)
+der Friede	peace	n	n-noun
+an/dauern	to last, continue	v
+die Übereinstimmung	agreement	n	-en
+beteiligt	involved	adj
+das Kriegführen	waging of war	n
+dreierlei	three kinds of	adj
+die Ding	thing	n	-e
+#Es-Dur	E-flat major
+die Bewunderung	admiration	n
+genießen (genoss, genossen)	to enjoy	v	irreg (sp, pp)
+die Unruhen	disturbances	n
+brennbar	combustible	adj
+der Wasserstoff	hydrogen	n
+füllen	to fill	v
+gehen (ging, gegangen; geht)	to go	v	irreg (sp, pp; 3p)

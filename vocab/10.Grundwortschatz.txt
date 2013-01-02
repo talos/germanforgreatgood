@@ -20,7 +20,7 @@ krönen	to crown	v
 lehren	to teach	v
 die Leute	people	n	pl
 lösen	to solve, dissolve	v
-oben	above	adj
+oben	above	adv
 reifen	to ripen, mature	v
 #schnell	rapid(ly)	adv adj
 die Seite	page	n	-n
