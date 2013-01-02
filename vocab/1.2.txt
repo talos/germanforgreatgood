@@ -15,7 +15,7 @@ der Oktober	October	n
 der Dezember	December	n
 der Winter	winter	n
 der Sommer	summer	n
-der König	king	n
+#der König	king	n
 der Teppich	carpet/rug	n
 der Sperling	sparrow	n
 der Palast	palace	n

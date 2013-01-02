@@ -21,7 +21,7 @@ verschnörkelt	ornate	adj
 auf/heben (hob…auf)	to suspend, repeal	v	strong (sp)
 Verbot gegen die Ansiedlung von Juden	prohibition of Jewish immigration
 verfolgt	prosecuted	adj
-verbringen (verbrachte)	to spend	v	strong (sp)
+#verbringen (verbrachte, verbracht)	to spend	v	strong (sp, pp)
 der Lebensabend	last days of one's life	n	-e
 bekannt/geben (gab…bekannt; gibt…bekannt)	to make known, make public	v	irreg (sp; 3p)
 Röntgen	Wilhelm Konrad Roentgen (1845-1923, discoverer of x-ray)	

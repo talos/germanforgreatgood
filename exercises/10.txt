@@ -115,6 +115,8 @@ The airship is called "Graf Zeppelin" after its inventor.
 
 Der Bär: Stadtsymbol und Naturphänomen
 
+* The Bear: City Symbol and Natural Phenomenon
+
 Im Wappen der Stadt Berlin sieht man einen stehenden Bär, und wie ein König ist
 er mit einer goldenen Krone gekrönt.  Der Bär ist überhaupt das Symbol von der
 schnell wachsenden Hauptstadt von Deutschland.  Lebende Berliner Bären gibt es
@@ -124,16 +126,35 @@ vielen anderen Ländern stehen sie auf der Liste von bedrohten, gefährdeten ode
 schon ausgestorbenen Tiere.  Aus diesem Grund sind Bären besonders
 faszinierend.
 
+* On the coat of arms of the city of Berlin there is a standing bear, and like
+a king he is crowned with a golden crown.  The bear is altogether the xymbol
+of the quickly growing capital of Germany.  There are living Berlin bears today
+unfortunately only in the (western Berlin) Zoologischer Garten and in the
+(eastern Berlin) zoo.  As a natural phenomenon in Germany bears have been
+extinct for more than 150 years.  In many other countries they stand on the
+list of threatened, endangered or already extinct animals.  For this reason
+bears are especially fascinating.
+
 Hauptsächlich in der nördlichen Hemisphäre lebend, sind Bären massige,
 großköpfige Tiere (rund 1 bis 3 Meter groß) und gehören zur Raubtierfamilie.
 Bären sind Allesfresser (sie fressen alles) und Sohlengänger (beim Gehen treten
 sie mit der ganzen Fußsohle auf den Boden).
+
+* Predominantly living in the northern hemisphere, bears are heavy,
+large-headed animals (around 1 to three meters large) and belong to the
+predator family.  Bears are omnivorous (they devour all) and plantigrade
+(in the process of moving they tread with the whole footon the ground) animals.
 
 Die männlichen Tiere verbringen ihr Leben zum großen Teil allein.  Das
 Familienleben eines Bären ist durch das väterliche Benehmen stark geprägt. Im
 Mai oder Juni paaren sich männliche und weibliche Bären.  Nach der Paarung
 verschwinden die Bärenmänner.  Getrennt verbringen die riesigen Raubtiere den
 Winter dann meist mit Schlafen.
+
+* The male animals spend their lives for the most part alone.  The family life
+of a bear is strongly characterized through paternal behavior.  In May or June
+male and female bears mate.  After the mating the male bears vanish away.
+Then separately the giant predators spend the winter mostly asleep.
 
 Im Februar werden Bärenbabys geboren.  Die kleinen Bären -- ein bis drei
 Säuglinge in einem Wurf -- kommen blind in die Welt und wiegen rund 500 g.
@@ -143,3 +164,10 @@ Fischen, Schwimmen, Klettern und Beeren-Pflücken. Die beschützende Mutter häl
 ständig Ausschau nach Männern.  Als Einzelgänger sind Bärenmänner besonders
 gefährlich: sie töten ihre eigenen Kinder.
 
+* In Febraury the baby bears are born.  The little bears -- one to three
+infants in a litter -- come into the world blind and weigh around 500g.  In 
+three months they are suckled of their mother's milk.  Mama Bear (perhaps
+225 kilos weight, 2 to 3 meters large) teaches her children for three years
+to fish, swimm, climb and berry-pick.  The protecting mother holds constant
+watch after men.  As loners the male bears are especially dangerous: they
+kill their own children.

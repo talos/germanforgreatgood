@@ -40,3 +40,44 @@ brennbar	combustible	adj
 der Wasserstoff	hydrogen	n
 füllen	to fill	v
 gehen (ging, gegangen; geht)	to go	v	irreg (sp, pp; 3p)
+#im Wappen	on the coat of arms
+der König	king	n	-e
+die Krone	crown	n	-n
+überhaupt	altogether	adv
+#leider nur	unfortunately only
+#Zoologischer Garten	(western Berlin) zoo
+#Tierpark	(eastern Berlin) zoo
+au/sterben (starb…aus, ist…ausgestorben; stirbt…aus)	to die out, become extinct	v	irreg (sp, pp; 3p)
+#aus diesem Grund	for this reason
+#besonders	especially	adv
+hauptsächlich	mainly, predominantly	adv
+massig	big, heavy	adj
+#gehören zu	to belong to
+das Raubtier	predatoriy animal	n	-e
+der Allesfresser	omnivore	n	-
+der Sohlengänger	plantigrate animal	n	-
+#zum großen Teil	for the most part, to a large extent
+das Benehmen	behavior	n
+#geprägt	characterized
+#sich paaren	to mate
+männlich	male	adj
+weiblich	female	adj
+die Paarung	mating	n
+schwinden (schwand, gewschwunden)	to vanish	v	irreg (sp, pp)
+verbringen (verbrachte, verbracht)	to spend	v	strong (sp, pp)
+getrennt	separated	adj
+riesigen	giant	adj
+#werden geboren	are born
+der Säugling	infant, suckling	n	-e
+der Wurf	brood, litter	n	-e
+wiegen	to weigh	v
+#werden gesäugt	are suckled
+unterrichten	to teach	v
+klettern	to climb	v
+pflücken	to pick	v
+beschützen	to protect	v
+ständig	constant	adj
+der Ausschau	watch out	n
+der Einzelgänger	loner	n	-
+töten	to kill	v
+gefährlich	dangerous	adj
