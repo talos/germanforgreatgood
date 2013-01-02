@@ -28,3 +28,45 @@ die Suche	search	n	-n
 das Luftschiff	airship	n	-e
 opfern	to sacrifice	v
 verschollen	disappeared, sunk into oblivion	v
+fliegen (flog, geflogen; fliegt)	to fly	v	irreg (sp, pp; 3p)
+die Erkenntnis	knowledge	n	-se
+vorletzt	next-to-last	adj
+brauchbar	practical	adj
+die Herstellung	production	n	-en
+#das Stadtbild	cityscape; city's general character	n
+#u.a. (unter anderem)	among other things
+der Renaissancebau	building of the Renaissance period	n	-ten
+prägen	to coin, shape, mold, leave an impression on	v
+günstig	favorable	adj
+die Handelsstraße	trade route	n	-n
+der Handelsplatz	place of trade, commercial center	-¨e
+der Schriftsteller	writer	n	-
+#der Regisseur	director	n	-e
+bayrisch	Bavarian	adj
+auf/wachsen (wuchs…auf, ist aufgewachsen; wächst auf)	to grow up	v	irreg (sp, pp; 3p)
+#angestellt	employed
+das Realgymnasium	high school	n	-gymnasien
+#besonders	especially	adv
+kaufmännischer	commercial	adj
+#Gedichte zu schreiben	to write poems
+die Zeitschrift	journal, magazine	n	-en
+die Ernte	the harvest	n	-n
+leider	unfortunately	adv
+verschollen	missing, lost	adv
+das Abitur	high school diploma	n
+überstehen (überstand, überstanden)	to withstand, surivive	v	irreg (sp, pp)
+der Tod	death	n
+langsam	slow	adj
+#eng	close	adj
+die Verbindung	connection	n	-en
+ab/brechen (brach…ab, abgebrochen; bricht…ab)	to break off	v	irreg (sp, pp; 3p)
+die Trommel	drum	n	-n
+das Dickicht	jungle	n	-e
+gemein	ordinary, vulgar	adj
+der Verehrer	admirer	n	-
+#jemanden zu Füßen fallen (fiel, ist gefallen; fällt)	to fall at someone's feet
+die Offenheit	openness, frankness	n
+#der Zuschauer	observer, audience member	n	-
+verteidigen	to defend	v
+#sein Lob singen (sang, gesungen)	to sing his praises
+#Anfang nehmen (nahm, genommen; nimmst)	to get a start

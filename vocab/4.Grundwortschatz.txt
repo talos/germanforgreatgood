@@ -11,7 +11,7 @@ dritt-	third	prefix
 durch	through, by	prep
 enthalten (enthielt, enthalten; enthält)	to contain, include	v	irreg (sp, pp; 3p)
 essen (aß, gegessen; isst)	to eat	v	irreg (sp, pp; 3p)
-fallen (fiel; fallt)	to fall	v	irreg (sp; 3p)
+fallen (fiel, ist gefallen; fällt)	to fall	v	irreg (sp, pp; 3p)
 die Form	form, shape, type	n	-en
 frei	free, unconnected	adj
 für	for, in favor of	prep

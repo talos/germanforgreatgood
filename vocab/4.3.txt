@@ -22,7 +22,7 @@ werden (wurde [ward], geworden; wird)	to become	v	irreg (sp [sp archaic], pp; 3p
 #werfen (warf, geworfen; wirft)	to throw	v	irreg (sp, pp; 3p)
 backen (buk [backte]; bäckt)	to bake	v	irreg (sp [sp alt]; 3p)
 empfangen (empfing; empfängt)	to receive	v	irreg (sp; 3p)
-#fallen (fiel; fallt)	to fall	v	irreg (sp; 3p)
+#fallen (fiel, ist gefallen; fällt)	to fall	v	irreg (sp, pp; 3p)
 fahren (fuhr; fährt)	to drive, ride	v	irreg (sp; 3p)
 fangen (fing; fängt)	to catch	v	irreg (sp; 3p)
 halten (hielt; hält)	to hold	v	irreg (sp; 3p)

@@ -48,4 +48,4 @@ zählen	to count	v
 die Zahl	number	n	-en
 zahlen	to pay	v
 zeigen	to show	v
-der Zuschauer	spectator	n	-
+der Zuschauer	spectator, observer, audience member	n	-
