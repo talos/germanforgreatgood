@@ -1,0 +1,35 @@
+die Abbildung	illustration	n	-en
+an/führen	to cite, state	v
+die Anwendung	use, application	n
+auf/bauen	to build up, synthesize	v
+der Bär	bear	n	n-noun
+besprechen (besprach, besprochen; bespricht)	to discuss	v	(sp, pp; 3p)
+bestätigen	to confirm	v
+die Bewegung	movement	n	-en
+blühen	to bloom, blossom	v
+da	there, then, here	adv
+einzeln	individual, single	adj
+die Freiheit	freedom	n	-en
+ganz	entirely	adv
+das Ganze	whole, entirety	n
+die Hilfe	help, aid	n	-n
+#das Kind	child	n	-er
+klein	small	adj
+krönen	to crown	v
+#von Erfolg gekrönt	to crown with success, to succeed
+lehren	to teach	v
+die Leute	people	n	pl
+lösen	to solve, dissolve	v
+oben	above	adj
+reifen	to ripen, mature	v
+#schnell	rapid(ly)	adv adj
+die Seite	page	n	-n
+der Stoff	substance, material	n	-e
+überraschen	to surprise	v
+unten	below	adj
+verbieten (verbot, verboten)	to forbid	v	irreg (sp, pp)
+verlangen	to demand, ask, require	v
+wachsen (wuchs, gewachsen; wächst)	to grow	v	irreg (sp, pp, 3p)
+wie	as, like, how	adv
+wiederholen	to repeat	v
+die Zelle	cell	n	-n
