@@ -31,7 +31,7 @@ die Uhr	clock	n	-en
 die Redefreiheit	freedom of speech	n	-en
 die Truppe	troops	n	-n
 die Hochschule	university, college	n	-n
-gründen	v
+#gründen	to found	v
 das Tschechien	Czech Republic	n
 zweitältest	second-oldest	adj
 das Wien	Vienna	n
