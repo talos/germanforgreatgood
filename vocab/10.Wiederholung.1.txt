@@ -35,7 +35,7 @@ sogar	even	adv
 die Einwanderung	immigration	n	-en
 die Besiedlung	settlement	n	-en
 fördern	to further, advance	v
-bedeutend	important	adj
+bedeutend	important, significant, great	adj
 regieren	to rule, govern	v
 die Kaiserkrone	imperial city	n	-n
 der Zusammenbruch	collapse	n	-¨e
@@ -53,7 +53,6 @@ auf/nehmen (nahm…auf, aufgenommen; nimmt…auf)	to take in, absorb	v
 #zählen	to count	v
 davon	of them	adv
 sogenannten	so-called	adj
-#bedeutend	important	adj
 die Zusammensetzung	composition	n	-en
 die Herkunft	origins	n	-¨e
 ein/ziehen (zog…ein, ist eingezogen)	to enter, move in	v

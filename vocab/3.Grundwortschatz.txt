@@ -9,7 +9,7 @@ danken	to thank	v
 dann	then	adv
 dienen	to serve, be used for	v
 einkaufen	to shop (for)	v
-entdecken	to discover	v
+#entdecken	to discover	v
 die Entdeckung	discovery	n	-en
 erfinden	to invent	v
 die Erfindung	invention	n	-en

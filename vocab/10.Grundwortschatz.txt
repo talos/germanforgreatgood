@@ -29,7 +29,7 @@ der Stoff	substance, material	n	-e
 unten	below	adj
 verbieten (verbot, verboten)	to forbid	v	irreg (sp, pp)
 verlangen	to demand, ask, require	v
-wachsen (wuchs, gewachsen; wächst)	to grow	v	irreg (sp, pp, 3p)
+wachsen (wuchs, gewachsen; wächst)	to grow	v	irreg (sp, pp; 3p)
 wie	as, like, how	adv
 wiederholen	to repeat	v
 die Zelle	cell	n	-n

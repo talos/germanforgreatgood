@@ -1,7 +1,7 @@
 allein	alone, only, but
 der Aufstand	revolt	n
 der Bauer	farmer	n-noun	-n
-bestehen aus (bestand)	to consist of	v	irreg (sp)
+#bestehen aus (bestand)	to consist of	v	irreg (sp)
 bestimmt	certain, definite	adj
 brauchen	to need, require	v
 #bzw. (beziehungsweise)	or, respectively

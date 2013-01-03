@@ -43,6 +43,6 @@ viel	much	adv
 viele	many	adj
 die Welt	world	n
 wenig	little, few	adj
-wichtig	important	adj
+wichtig	important, significant, prominent	adj
 die Woche	week	n
 zum Beispiel	for example
