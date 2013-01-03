@@ -14,7 +14,7 @@ der Nährstoff	nutrient	n	-e
 ein/dringen (drang…ein, ist eingedrungen)	to penetrate	v	irreg (sp, pp)
 feste	fixed	adj
 ab/fassen	to write, compose	v
-auf/nehmen (nahm…auf, aufgenommen; nimmt…auf) to adopt, take up	v	irreg (sp, pp; 3p)
+auf/nehmen (nahm…auf, aufgenommen; nimmt…auf)	to adopt, take up	v	irreg (sp, pp; 3p)
 vereinigen	to combine, unify
 die Behauptung	assertion, statement	n	-en
 egreifend	gripping	adj

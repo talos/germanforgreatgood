@@ -24,7 +24,7 @@ aller Anfang	getting started, the first step
 das Anfang	beginning, start	-:e
 schwer	difficult, weighty	adj
 das heißt	that means
-beginnen	to begin	v
+#beginnen (begann, begonnen)	to begin, start	v	strong (sp, pp)
 nicht einfach	not easy; difficult	adj
 im Anfang	in the beginning	adv
 das Wort	word	n

@@ -19,7 +19,7 @@ die Grenze	boundary, border	n	-n
 die Hauptstadt	capital city	n	-¨e
 hören	to hear	v
 kämpfen	to fight, battle	v
-kennen/lernen	to get to know, become acquainted with	v	[two options]
+kennen/lernen	to get to know, become acquainted with	v
 die Lehre	teaching, doctrine	n	-n
 lesen (las; liest)	to read	v	(sp; 3p)
 nötig	necessary, needed	adj

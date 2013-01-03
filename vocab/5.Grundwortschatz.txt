@@ -1,7 +1,7 @@
 all	all	pronoun	der word (pl.)
 als	as, when, than	adverb
 auf	on, upon	prep
-beginnen (begann, begonnen)	to begin	v	strong (sp, pp)
+beginnen (begann, begonnen)	to begin, start	v	strong (sp, pp)
 beide	both	pronoun	der word (pl.)
 bringen (brachte)	to bring	v	irreg (sp)
 dieser	this, that, the latter	pronoun	der word
