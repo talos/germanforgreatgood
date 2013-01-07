@@ -36,6 +36,6 @@ steigen (stieg)	to rise, climb	v	irreg (sp)
 verschieden	various, different	adj
 von	of, from	prep
 vor	before, ago	prep
-werden (wurde; wird)	to become	v	irreg (sp; 3p)
-ziegen (zog)	to move, pull	v	irreg (sp)
+werden (wurde [ward], geworden; wird)	to become	v	irreg (sp [sp archaic], pp; 3p)
+ziehen (zog, gezogen; zieht)	to move, pull	v	irreg (sp, pp; 3p)
 zwischen	between	prep

@@ -6,7 +6,7 @@ bürgerlich	middle class, burgeois; civic	adj
 deshalb	therefore
 der Einwohner	inhabitant (male)	n	-
 die Einwohnerin	inhabitant (female)	n	-nen
-erfinden (erfant, erfunden)	to invent	v	irreg (sp, pp)
+erfinden (erfand, erfunden)	to invent	v	irreg (sp, pp)
 erhöhen	to increase, raise	v
 ermöglichen	to make possible	v
 erscheinen (erschien, ist erschienen)	to appear, to be published	v	irreg (sp, pp)

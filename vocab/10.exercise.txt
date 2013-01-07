@@ -9,7 +9,7 @@ die Rettung	rescue	n	-en
 gefährden	to endanger	v
 bedrohen	to threaten	v
 der Erfolg	success	n	-e
-gedeihen	to flourish	v
+gedeihen (gedieh, ist gediehen)	to flourish	v (sp, pp)
 der Nährstoff	nutrient	n	-e
 ein/dringen (drang…ein, ist eingedrungen)	to penetrate	v	irreg (sp, pp)
 feste	fixed	adj
@@ -53,9 +53,9 @@ au/sterben (starb…aus, ist…ausgestorben; stirbt…aus)	to die out, become ex
 hauptsächlich	mainly, predominantly	adv
 massig	big, heavy	adj
 #gehören zu	to belong to
-das Raubtier	predatoriy animal	n	-e
+das Raubtier	predatory animal	n	-e
 der Allesfresser	omnivore	n	-
-der Sohlengänger	plantigrate animal	n	-
+der Sohlengänger	plantigrade animal	n	-
 #zum großen Teil	for the most part, to a large extent
 das Benehmen	behavior	n
 #geprägt	characterized
