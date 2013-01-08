@@ -15,7 +15,7 @@ folgen	to follow, succeed, obey	v
 geben (gab; gibt)	to give	v	irreg (sp; 3p)
 es gibt	there is, there are
 glauben	to believe	v
-immer	always, ever	adv
+#immer	always, ever	adv
 war schon immer	has always been
 jemand	somebody, anybody	indef pron
 kaum	hardly	adv

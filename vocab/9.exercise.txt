@@ -56,7 +56,7 @@ verschollen	missing, lost	adv
 das Abitur	high school diploma	n
 überstehen (überstand, überstanden)	to withstand, surivive	v	irreg (sp, pp)
 der Tod	death	n
-langsam	slow	adj
+#langsam	slow	adj
 #eng	close	adj
 die Verbindung	connection	n	-en
 ab/brechen (brach…ab, abgebrochen; bricht…ab)	to break off	v	irreg (sp, pp; 3p)

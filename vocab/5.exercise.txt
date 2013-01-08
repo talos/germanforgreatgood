@@ -64,7 +64,7 @@ erleben	to experience	v
 der Ablassbrief	letters of indulgence	n	-e
 der Papst	pope	n	-¨e
 der Kampf	battle, struggle	n	-¨e
-besonders	especially	adv
+#besonders	especially	adv
 verlassen	to leave	v
 geistlich	religious, church	adj
 der Fürstentum	principality	n	-¨er
