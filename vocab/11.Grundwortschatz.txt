@@ -20,7 +20,7 @@ lang	long	adj
 langsam	slow	adj
 der Lauf	course	n	-¨e
 #im Laufe	in the course (of)
-liegen	to lie, be lying down	v	irreg (sp, pp)
+liegen (lag, gelegen)	to lie, be lying down	v	irreg (sp, pp)
 die Linie	line	n	-n
 #in erster Linie	primarily, in the first place
 das Meer	ocean, sea	n	-e
@@ -35,4 +35,4 @@ verbinden (verband, verbunden)	to connect, combine, unite	v	irreg (sp, pp)
 vor/kommen (kam…vor, ist vorgekommen)	to occur, happen, seem	v	irreg (sp, pp)
 das Wachstum	growth	n
 zahlreich	numerous	adj
-zu/nehmen (nahm…zuk, zugenommen; nimmt…zu)	to increase, grow	v	irreg [compound] (sp, pp; 3p)
+zu/nehmen (nahm…zu, zugenommen; nimmt…zu)	to increase, grow	v	irreg [compound] (sp, pp; 3p)
