@@ -56,7 +56,7 @@ der Sakralbau	sacred building	n
 der Boden	ground, territory	n
 vollenden	to complete	v
 der Turm	tower, steeple	n	-¨e
-bekommen (bekam)	to get, obtain	v	strong (sp)
+#bekommen (bekam)	to get, obtain	v	strong (sp)
 immer mehr	more and more
 das Mittelalter	middle ages	n	
 aufwendig	expensive	adj

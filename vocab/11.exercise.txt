@@ -1,0 +1,80 @@
+#das Gemälde	painting	n	-
+das Sprichwort	saying, proverb	n	-¨er
+die Redewendung	figure of speech	f	-en
+#dar/stellen	to depict, represent	v
+#das bruegelsche Gemälde	the painting by Bruegel
+blau	blue	adj
+der Mantel	coat	n	-¨
+die Torheit	foolishness, stupidity	n	-en
+der Narr	fool	n	n-noun
+die Weberei	weaving mills	n	-en
+der Leinenstoff	linen	n	-e
+die Baumwolle	cotton	n
+um/steigen auf (stieg um, ist umgestiegen)	to switch over	v	irreg (sp, pp)
+#Schlesien	Silesia
+der Weber	weaver	n	-
+der Übergang	conversion	n	-¨e
+der Dampfantrieb	steam propulsion	n
+der Großbetrieb	large-scale factory	n	-e
+die Hausindustrielle	cottage industries	n	pl
+verlieren (verlor)	to lose	v	irreg (sp)
+die Konkurrenzfähigkeit	ability to compete	n
+die Auslesezüchtung	selective growing, breeding	n
+jahrhundertelang	for centuries, hundreds of years
+das Züchtung	breeding	n	-en
+#zur Entwicklung	for the development
+hochwertig	high-grade	adj
+die Kulturpflanze	cultivated plant	n	-n
+#Röntgen	W. C. Roentgen
+die Röntgenstrahlen	X-Rays	n	pl.
+die Wellenlänge	wavelength	n	-n
+die Grenzfrequenz	boundary frequency	n	-en
+die Partikel	particle	n	-n
+dicht	dense	adj
+der Wohnplatz	living space	n	-¨e
+#um mehr als	by more than
+bedecken	to cover	v
+die Erdoberfläche	surface of the Earth	n
+die Lebensdauer	life span	n
+die Lebenserwartung	life expectancy	n
+die Nachbarschaft	neighborhood	n	-en
+dei Bevölkerung	population	n	-en
+die Ernährungslage	food supply, state of nutrition	n
+#unter	among
+#erhöhen	increase	v
+der Spiegel	mirror, looking glass	n	-
+das Spieglein	(little) mirror	n	-
+die Wand	wall	n	-¨e
+die Königin	queen	n	-nen
+der Zwerg	dwarf	n	-e
+die Anzahl	number, quantity, amount	n
+infizieren	to infect	v
+die Eröffnung	opening	n
+gedenken (gedachte, gedacht)	to commemorate	v
+der Erreger	cause	n	-
+#berichten	to report	v
+die Einleitung	introduction	n	-en
+der Zufall	coincidence	n	-¨e
+#der Fortschritt	progrogress	n	-e
+#Wien	Vienna
+#sich wandeln	to change
+die Lebenserhaltung	prolongation of life	n
+das Ziel	goal	n	-e
+die Behandlung	treatment	n
+#AZT, ddl, ddc	medications used in AIDS treatment
+wirksam	effective	adj
+leider	unfortunately	adv
+erhalten (erhielt, erhalten; erhält)	to receive, obtain	v	irreg (sp, pp; 3p)
+nur	only
+der Prozentsatz	percentage	n
+die Ursache	cause	n	-n
+stehen vor (stand, gestanden)	to be confronted with
+wachsen (wuchs, ist gewachsen; wächst)	to grow, increase	v	irreg (sp, pp; 3p)
+aktuell	current	adj
+der Eindruck	impression	n	-¨e
+#das Ergebnis	result, consequence	n	-se
+#der Teilnehmer	participant	n	-
+#rund	approximately	adv
+#davon	of those	adv
+sterben an (starb, ist gestorben; stirbt)	to die of	v	irreg (sp, pp; 3p)
+werden infiziert	are infected, become infected	v
