@@ -11,7 +11,7 @@ dienen	to serve, be used for	v
 einkaufen	to shop (for)	v
 #entdecken	to discover	v
 die Entdeckung	discovery	n	-en
-erfinden	to invent	v
+#erfinden	to invent	v
 die Erfindung	invention	n	-en
 erst	first, only	adj
 die Farbe	color	n	-n

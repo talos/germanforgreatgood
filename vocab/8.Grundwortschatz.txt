@@ -8,7 +8,7 @@ der Bau	construction, building	n	-ten
 besitzen (besaß, besessen)	to possess, have	v	(sp, pp)
 der Bruder	brother	n	-̈e
 daher	therefore, hence	conj
-dar/stellen	to represent, depict	v
+#dar/stellen	to represent, depict	v
 die Eigenschaft	property, quality	n	-en
 einfach	simple, simply	adj, adv
 die Einführung	introduction	n	-en

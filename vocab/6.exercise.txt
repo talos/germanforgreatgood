@@ -11,7 +11,7 @@ kaum genug	hardly enough
 ausfürlich	detailed	adj
 der Bereich	report	n	-e
 wissen (wusste, gewusst, weiß)	to know	v
-der Bericht	report	n	-e
+#der Bericht	report	n	-e
 zeigen	to show, demonstrate	v
 wichtig	important	adj
 die Ausdauer	perseverance	n
