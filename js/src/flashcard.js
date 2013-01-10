@@ -17,6 +17,8 @@ $(document).ready(function () {
         $sources = $('#sources'),
         $proximity = $('#proximity'),
         $indexLoader = $('<div />').css('display', 'none').appendTo($('body')),
+        $selectAll = $('#selectAll'),
+        $unselectAll = $('#unselectAll'),
         failureClass = 'failure',
         vocabListPath = 'vocab/',
         allSources = {},
@@ -62,8 +64,9 @@ $(document).ready(function () {
                 };
                 $total.text(String(hrefVocab.length));
             });
-            $checkbox.on('click.flashcard', function (evt) {
-                if ($checkbox.is(':checked')) {
+            $checkbox.on('click.flashcard', function (evt, data) {
+                var isFake = data && data.hasOwnProperty('fake');
+                if ($checkbox.is(':checked') ? !isFake : isFake) {
                     availableSources[href] = $source;
                 } else {
                     delete availableSources[href];
@@ -71,9 +74,7 @@ $(document).ready(function () {
             });
             // Pre-select main vocab sections.
             if (href.search(/grundwortschatz/i) !== -1) {
-                $checkbox.prop('checked', 'checked');
-                $checkbox.trigger('click.flashcard');
-                $checkbox.prop('checked', 'checked');
+                $checkbox.trigger('click.flashcard', {'fake': true});
             }
             $source.data('flashcard', data);
             allSources[href] = $source;
@@ -116,6 +117,19 @@ $(document).ready(function () {
                 $lexCat.text(choice.lexCat || '');
                 $extra.text(choice.extra || '');
             }
+        },
+
+        /***
+         * Fake-click every source checkbox for which `predicate` is true.
+         */
+        clickSourceCheckboxes = function (predicate) {
+            $('#sources * input[type="checkbox"]').each(function (i, checkbox) {
+                var $checkbox = $(checkbox),
+                    checkedState = $checkbox.is(':checked');
+                if (predicate($checkbox)) {
+                    $checkbox.trigger('click.flashcard', {'fake': true});
+                }
+            });
         };
 
     $answer.on('submit', function (evt) {
@@ -125,6 +139,20 @@ $(document).ready(function () {
 
     $sad.on('click', function (evt) {
         $answer.trigger('submit');
+    });
+
+    $unselectAll.on('click', function (evt) {
+        evt.preventDefault();
+        clickSourceCheckboxes(function ($checkbox) {
+            return $checkbox.is(':checked');
+        });
+    });
+
+    $selectAll.on('click', function (evt) {
+        evt.preventDefault();
+        clickSourceCheckboxes(function ($checkbox) {
+            return !$checkbox.is(':checked');
+        });
     });
 
     $answerInput.on('keyup', function (evt) {
