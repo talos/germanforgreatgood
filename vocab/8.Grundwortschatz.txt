@@ -26,7 +26,7 @@ kaum	hardly	adv
 die Kraft	power, force, strength	n	-̈e
 die Reise	trip	n	-n
 sofort	immediately	adv
-statt/finden (fand…statt)	to take place, occur	v	strong (sp)
+statt/finden (fand…statt, stattgefunden)	to take place, occur	v	strong (sp, pp)
 der Umweltschutz	environmental protection	n
 um/ziehen (zog…um)	to move	v	strong (sp)
 der Ursprung	origin, source	n	-̈e

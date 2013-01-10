@@ -49,7 +49,7 @@ der Bundesstaat	federal state	n	-en
 bedeutend	significant	adj
 #folgen	to follow, succeed, obey	v
 #besonders	especially	adv
-entstehen (entstand)	to emerge, come into being	v
+#entstehen (entstand)	to emerge, come into being	v
 die Weltstadt	metropolis	n	-̈e
 die Leistung	achievement	n	-en
 dunkel	dark	adj
