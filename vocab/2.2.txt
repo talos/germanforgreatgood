@@ -14,7 +14,7 @@ salzen	to salt	v
 scheinen (schien; scheint)	to seem, appear	v	irreg (sp; 3p)
 schwimmen (schwamm, geschwommen)	to swim	v	irreg (sp, pp)
 senden (sandte/sendete, gesandt/gesendet)	to send	v	irreg (sp/alt, pp/alt)
-setzen	to set	v
+#setzen	to set, employ	v
 singen (sang, gesungen)	to sing	v	irreg (sp, pp)
 sinken (sank, gesunken)	to sink	v	irreg (sp, pp)
 sitzen (saß, gesessen)	to sit	v	irreg (sp, pp)

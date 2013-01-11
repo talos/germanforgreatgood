@@ -22,7 +22,7 @@ der Zuwachs	growth	n
 stiegen	to rise	v
 schwierig	difficult	adj
 unmöglich	impossible	adj
-klingen (klang)	sound	v	strong (sp)
+#klingen (klang, geklungen)	sound, resound	v	strong (sp, pp)
 empfinden (empfand)	to feel, sense, perceive	v	strong (sp)
 der Niedergang	decline	n
 fordern	to demand, advocate	v
