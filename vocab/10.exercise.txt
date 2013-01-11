@@ -21,7 +21,7 @@ egreifend	gripping	adj
 mehrfach	multiple	adj
 ununterbrochen	uninterrupted	adj
 beschleunigen	to accelerate	v
-das Wachstum	growth	n
+#das Wachstum	growth	n
 zusammen/drängen	to compress	v
 wieder/geben (gab…wieder, wiedergegeben; gibt…wieder)	to reproduce	v	irreg (sp, pp; 3p)
 aufrecht/erhalten (erhielt…aufrecht, aufrechterhalten; erhält…aufrecht)	to maintain	v	irreg (sp, pp; 3p)

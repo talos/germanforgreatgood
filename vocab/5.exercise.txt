@@ -18,7 +18,7 @@ der Maler	painter	n	-
 die Darstellung	portrayal	n	-en
 der Vordergrund	foreground	n	-¨e
 #überstehen (überstand, überstanden)	to withstand, surivive	v	irreg (sp, pp)
-der Zuwachs	growth	n
+#der Zuwachs	growth	n
 stiegen	to rise	v
 schwierig	difficult	adj
 unmöglich	impossible	adj

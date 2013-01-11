@@ -30,4 +30,4 @@ studieren	to study (a subject at the university)	v
 usw. (und so weiter)	etc. (and so forth)
 wohl	well, perhaps, probably, indeed, no doubt	adv
 die Zahl	number, figure	n	-en
-der Zuwachs	growth	n
+der Zuwachs	increase, growth, increment	n
