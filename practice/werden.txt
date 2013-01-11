@@ -1,0 +1,17 @@
+		pres	past
+ich		werde	wurde/ward
+du		wirst	wurdest/wardst
+er/sie/es	wird	wurde/ward
+wir		werden	wurden
+ihr		werdet	wurdet
+sie/Sie		werden	wurden
+
+===============
+
+		pres	past
+ich		
+du		
+er/sie/es	
+wir		
+ihr		
+sie/Sie		

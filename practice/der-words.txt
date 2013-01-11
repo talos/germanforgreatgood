@@ -1,0 +1,17 @@
+	mS	fS	nS		P
+nom	dies	diese	dies(es)	diese
+gen	dieses	dieser	dieses		dieser
+dat	diesem	dieser	diesem		diesen
+acc	diesen	diese	dies(es)	diese
+
+==============
+
+	mS	fS	nS		P
+nom	
+gen	
+dat	
+acc	
+
+
+
+

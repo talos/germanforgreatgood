@@ -1,0 +1,25 @@
+when?		wann?
+why?		warum?
+what?		was?
+what kind of?	was für ein?
+which, what?	welcher?
+who?		wer?
+how?		wie?
+how many?	wie viele?
+how much?	wie viel?
+where?		wo?
+where to?	wohin?
+
+===============
+
+when?		
+why?		
+what?		
+what kind of?	
+which, what?	
+who?		
+how?		
+how many?	
+how much?	
+where?		
+where to?	

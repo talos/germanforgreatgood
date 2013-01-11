@@ -1,0 +1,23 @@
+	nom	gen	dat	acc
+1s	ich	meiner	mir	mich
+2s	du	deiner	dir	dich
+3sm	er	seiner	ihm	ihn
+3sf	sie	ihrer	ihr	sie
+3sn	es	seiner	ihm	es
+1p	wir	unserer	uns	uns
+2p	ihr	eurer	euch	euch
+3p	sie	ihrer	ihnen	sie
+2pform	Sie	Ihrer	Ihnen	Sie
+
+=========
+
+	nom	gen	dat	acc
+1s	
+2s	
+3sm	
+3sf	
+3sn	
+1p	
+2p	
+3p	
+2pform	
