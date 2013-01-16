@@ -1,0 +1,34 @@
+der Arzt	physician (m)	n	-¨e
+die Ärztin	physician (f)	n	-nen
+auf/nehmen (nahm…auf, aufgenommen; nimmt…auf)	to absorb, take up	v	irreg (sp, pp; 3p)
+der Autor	author (male)	n	-en n-noun
+die Autorin	author (female)	n	-nen
+der Begründer	founder (m)	n	-
+die Begründerin	founder (f)	n	-nen
+der Beitrag	contribution	n	-¨e
+die Beobachtung	observation	n	-en
+bereichern	to enrich, enhance	v
+der Beruf	occupation, job	n	-e
+berufstätig	employed	adj
+berühmt	famous	adj
+besonders	especially	adv
+der Betrieb	operation, plant, factory	n	-e
+eigen	own, individual	adj
+eventuell	possible, perhaps	adv
+fremd	foreign, strange, unfamiliar	adj
+der Fürst	ruler (m), prince	n	-en n-noun
+die Fürstin	ruler (f), princess	n	-nen
+grundlegend	basic	adj
+heiß	hot	adj
+landwirtschaftlich	agricultural	adj
+nah(e)	near	adv adj
+nördlich	northern, northerly
+der Soldat	soldier (m)	n	-en n-noun
+die Soldatin	soldier (f)	n	-nen
+das Spiel	game	n	-e
+um/arbeiten	to rewrite, revise, alter	v
+der Unternehmer	contractor (m)	n	-
+die Unternehmerin	contractor (f)	n	-nen
+vermerken	to annotate, note, remark	v
+vermutlich	presumable, possible	adj
+die Zukunft	future	n

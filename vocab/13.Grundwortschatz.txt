@@ -1,6 +1,6 @@
 an/regen	to stimulate	v
 an/sehen (sah…an, angesehen; sieht…an)	to regard, look at	v	irreg (sp, pp; 3p)
-ausländisch	foreign	adj
+ausländisch	foreign, alien	adj
 beliebt	popular	adj
 der Bericht	report	n	-e
 dankbar	thankful, greatful	adj
