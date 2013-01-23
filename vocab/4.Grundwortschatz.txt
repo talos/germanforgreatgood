@@ -38,5 +38,5 @@ die Studium	studies at university	n	-um/-en
 über	over, about	prep
 die Umwelt	environment	n	-
 unser	our	pronoun
-verändern	to change	v
+#verändern	to change, alter	v
 das Volk	people, nation	n	-¨er
