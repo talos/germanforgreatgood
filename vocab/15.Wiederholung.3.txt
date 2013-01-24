@@ -1,0 +1,85 @@
+#Schweiz	Switzerland
+die Persönlichkeit	personality	n-	en
+die Frührenaissance	early Renaissance period	n
+der Bahnbrecher	pioneer	n	-
+verachten	to despise	v
+das Bücherwissen	book learning	n
+die Erforschung	investigation, study	n	-en
+dringlich	pressing, urgent	adj
+der Spiegel	mirror	n	-
+die Einsicht	knowledge, insight	n	-en
+bedeuten	to mean, signify	v
+zu/bereiten	to prepare, mix	v
+die Arznei	medicine	n	-en
+die alchimistische Küche	alchemist's laboratory	n	-n
+#bis dahin	until then
+giftig	toxic	adj
+die Chirurgie	surgery	n
+#damals	at that time
+der Jodgehalt	iodine content	n	-en
+der Kropf	goiter	n	-¨e
+das Arzneimittel	drug	n	-
+die Chirurgie	surgery	n	-
+gebildet	trained, educated	adj
+der Bader	barber (obsolete usage)	n	-
+#hingegen	on the other hand
+wirken	to act, work	v
+beraten (beriet, beraten; berät)	to advise	v	irreg (sp, pp; 3p)
+damit	with that, so that	conj
+gewiss	certain	adj
+das Ansehen	prestige, respect	n
+#zugute kommen (kam, ist gekommen)	to be helpful
+weithin	to a large extent
+verpönt	taboo, despised	adj
+leisten	to perform	v
+befürworten	to propose	v
+#als erster machte er…	he was the first one to make…
+der Unterschied	difference, distinction	n	-e
+das Heilmittel	remedy, cure	n
+die Teufelsbesessenheit	being possessed by the devil	n
+der Irrsinn	insanity	n
+retten	to save	v
+hin/richten	to execute	v
+die Schrift	work, text	n	-en
+die Bergsucht	black lung disease	n
+#den Grundsteine legen	to lay the foundation
+die Gewerbekrankheit	occupational disease	n	-en
+eigenartig	peculiar, characteristic	adj
+der Bergbauarbeiter	miner	n	-
+#suchen	to seek, search	v
+entsprechend	corresponding
+#dagegen	for them (only in this context)
+gewerbsmäßig	occupational	adj
+die Vergiftung	poisoning	n	-en
+#sterben (starb, ist gestorben; stirbt)	to die	v	irreg (sp, pp; 3p)
+begraben	buried	adj
+obeliskförmig	in the form of an obelisk	adj
+das Grabmal	tombstone	n	-¨er
+tragen (trug, getragen; trägt)	to bear	v	irreg (sp, pp; 3p)
+oberst-	uppermost	prefix
+die Schriftenplatte	inscribed slab	n
+die Inschrift	inscription	n	-en
+der Ruhm	fame, honor, glory	n
+erwerben (erwarb, erworben; erwirbt)	to attain	v	irreg (sp, pp; 3p)
+das Bildnis	likeness	n	-se
+die Gebeine	skeleton, bones	n	pl
+die Haut	skin, hide	n	-¨e
+umgeben	to surround, be together	v
+kreisrund	circular	adj
+die Verkündigung	announcement	n	-en
+die Wunde	wound	n	-n
+die Lepra	leprosy	n
+das Podagra	podagra, gout	n
+#Ehre ein/bringen (brachte…ein, eingebracht)	to win honors and fame	v	irreg (sp, pp; 3p)
+dass	that
+#Hab und Gut	worldly possessions
+#unter	among
+#arm	poor	adj
+verteilen lassen (ließ, gelassen; lässt)	to divide up	v	irreg (sp, pp; 3p)
+vertauschen	to exchange	v
+die Beziehung	respct, relationship	n	-en
+mittelalterlich	medieval	adj
+die Anschauung	view, idea	n	-en
+vielfach	widely, frequently	adv
+hervorragend	outstanding	adj
+die Gestalt	figure, character	n
