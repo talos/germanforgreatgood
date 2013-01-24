@@ -1,0 +1,6 @@
+dürfen (durfte, gedurft; darf)	to be allowed/permitted to, may	v	irreg (sp, pp; 3p)
+können (konnte, gekonnt; kann)	to be able to, can	v	irreg (sp, pp; 3p)
+mögen (mochte, gemocht; mag)	to like (to)	v	irreg (sp, pp; 3p)
+müssen (musste, gemusst; muss)	to have to, must	v	irreg (sp, pp; 3p)
+sollen (sollte, gesollt; soll)	to be supposed to, should, ought	v	irreg (sp, pp; 3p)
+wollen (wollte, gewollt; will)	to want to, intend	v	irreg (sp, pp; 3p)

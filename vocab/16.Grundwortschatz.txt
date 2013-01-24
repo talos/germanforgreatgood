@@ -1,0 +1,26 @@
+das Alter	age	n
+die Ausnahme	exception	n	-n
+der Ausschnitt	excerpt	n	-e
+der Begriff	concept	n	-e
+berechnen	to calculate	v
+damalig	then, of that time	adv
+darum	therefore, for all that	adv
+durch/führen	to carry out, execute	v
+die Entfernung	distance	n	-en
+fest/stellen	to determine	v
+der Freund	friend (m)	n	-n
+die Freundin	friend (f)	n	-nen
+ganz	whole, quite	adj
+helfen (half, geholfen; hilft)	to help	v	irreg (sp, pp; 3p)
+heutig	today's, current	adj
+nie	never
+schließlich	finally	adv
+die Schwierigkeit	difficulty	n	-en
+der Stern	star	n	-e
+teilen	to divide	v
+die Teilung	division	n	-en
+teilweise	partially	adv
+tun (tat, getan)	to do	v	irreg (sp, pp)
+das Verfahren	process	n	-
+die Vorlesung	lecture	n	-en
+weder…noch	neither…not

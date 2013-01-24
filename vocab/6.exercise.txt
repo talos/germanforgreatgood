@@ -62,7 +62,7 @@ der Unterdrücker	oppressor	n	-
 heiser	hoarsely	adv
 gewählt	elected	adj
 an der Spitze	at the front
-rufen (rief)	to shout, call out	v
+#rufen (rief)	to shout, call out	v	irreg (sp)
 im Takt	(rhythmically) in time
 nieder	down	adv
 war verschwunden	was gone, had disappeared
