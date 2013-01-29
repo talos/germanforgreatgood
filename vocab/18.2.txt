@@ -1,0 +1,22 @@
+als	when	conj
+als ob	as if	conj
+bevor	before	conj
+bis	until	conj
+da	since, because	conj
+damit	so that	conj
+dass	that	conj
+ehe	before	conj
+falls	if, in case	conj
+indem	by (+ verb + -ing)	conj
+je nachdem	according to, depending on	conj
+nachdem	after	conj
+ob	whether	conj
+obgleich, obwohl	although	conj
+seit, seitdem	since	conj
+sobald	as soon as	conj
+solange	as long as	conj
+sooft	as often as	conj
+während	while	conj
+weil	because	conj
+wenn	if, when	conj
+wie	how	conj

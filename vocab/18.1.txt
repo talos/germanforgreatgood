@@ -1,0 +1,9 @@
+aber	but, however	conj
+allein	but, only	conj
+denn	since, because, for	conj
+entweder…oder	either…or	conj
+jedoch	however	conj
+oder	or	conj
+sondern	but (rather)	conj
+und	and	conj
+weder…noch	neither…nor	conj

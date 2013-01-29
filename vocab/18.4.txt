@@ -1,0 +1,52 @@
+aktuell	relevant, up-to-date	adj
+also	thus, so	conj
+arm	poor	adj
+die Art	species, type, class	n
+bald	soon	adv
+der band	volume	n
+das Band	tie, bond	n
+bei	at, while, during, with
+bekommen	to receive	v
+bilden	to form, shape, educate
+die Bildung	eductation	n
+blank	shining, bright	adj
+brav	well-behaved, good	adj
+breit	broad, wide	adj
+der Brief	letter	n
+der Chef	boss, chief	n
+damit	with that, with them; thereupon	conj
+denn	because, for	conj
+eventuell	possible	adj
+der Fall	case, instance, matter, affair	n
+fast	almost, nearly
+fehlen	to lack, be missing	v
+das Gift	poison	n
+groß	tall, high; large, great, immense	adj
+hell	clear, bright	adj
+her	here, this way	adv
+das Kapitel	chapter	n
+das Kind	child	n
+die Kinder	children	n
+konsequent	consistent	adj
+die Konzepte	notes	n	pl.
+die Last	burden, load	n
+man	one, someone	pronoun
+das Mittel	means	n
+die Not	need, necessity	n
+pathetisch	lofty, solemn, expressive	adj
+die Pest	plague	n
+plump	clumsy, awkward	adj
+der Rat	advice	n
+ringen	to struggle for	v
+der Roman	novel	n
+rot	red	adj
+der See	lake	n
+die See	sea, ocean	n
+sensibel	sensitive	adj
+sensitiv	hypersensitive	adj
+stehen	to stand, be written down	v
+tot	dead	adj
+weil	because, since	conj
+wer	who	pronoun
+wo	where	pronoun
+#will	want

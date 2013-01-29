@@ -1,0 +1,29 @@
+die Ähnlichkeit	similarity	n	-en
+der Ausruck	expression	n	-¨e
+aus/führen	to carry out, execute, perform	v
+die Ausgrabung	excavation	n	-en
+benutzen	to use	v
+bitten (bat, gebeten)	to ask, request	v	irreg (sp, pp)
+um Rat bitten	to ask for advice
+das Ding	thing	n	-e
+einmal	once	adv
+(sich) entscheiden (entschied, entschieden)	to decide	v	irreg (sp, pp)
+erfahren (erfuhr, erfahren; erfährt)	to learn, find out	v	irreg (sp, pp; 3p)
+erzeugen	to produce	v
+die Fahrt	trip, ride	n	-en
+das Feld	field	n	-er
+das Gewicht	weight	n	-e
+gründen	to found	v
+jedoch	however	conj
+leicht	light, easy	adj
+manchmal	sometimes	adv
+mit/teilen	to tell, communicate	v
+nachdem	after
+nach/weisen (wies…nach, nachgewiesen)	to prove, show	v	irreg (sp, pp)
+verbessern	to improve	v
+vorläufig	for the time being, temporarily	adv
+das Wetter	weather	n
+wie	as, how, like
+der Zuschauer	viewer, audience member (m)	n	-
+die Zuschauerin	viewer, audience member (f)	n	-nen
+zustande kommen (kam…zustande, ist zustandegekommen)	to come about, be produced	v	irreg (sp, pp)
