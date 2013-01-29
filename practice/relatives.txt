@@ -1,0 +1,11 @@
+	m	f	n	pl
+nom	der	die	das	die
+gen	dessen	deren	dessen	deren
+dat	dem	der	dem	denen
+acc	den	die	das	die
+
+	m	f	n	pl
+nom	
+gen	
+dat	
+acc	
