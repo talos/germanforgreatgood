@@ -48,11 +48,11 @@ Interesting situations prevail in nature.  For example, elephants are said to be
 
 13. Andere Zustände herrschen im Ausland als hier bei uns, und das darf man nicht vergessen.
 
-In foreign lands other conditions prevail than here at home, and one must never forget that.
+In foreign lands other conditions prevail than here at home, and one must not forget that.
 
 14. Im Allgemeinen sollen die Arbeitsverhältnisse hier bei uns bedeutend besser sein.
 
-In general working conditions here at home are said to be better.
+In general working conditions here at home are said to be significantly better.
 
 15. Wegen der Dunkelheit haben wir langsamer fahren müssen.  Ich schätze, die Reise hat gut zwei Stunden länger gedauert.
 
@@ -72,7 +72,7 @@ In the first Book of Moses it says: "You shall eat your bread in the sweat of yo
 
 19. Jetzt, nach vielen Jahren, will der Politiker ein Frontkämpfer gewesen sein.  Er hat jedoch während des Krieges niemals eine Kugel pfeifen hören.
 
-Today, after four years, the politician wants to be a combat soldier.  However, during the war he never heard a bullet whistling.
+Today, after four years, the politician wants to have been a combat soldier.  However, during the war he never heard a bullet whistling.
 
 20. Man darf eine Lösung des Welternährungsproblems durch eine Züchtung neuer Pflanzenssorten allein nicht erwarten.
 
