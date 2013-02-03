@@ -17,3 +17,6 @@ heraus entsteht (enstand, ist entstanden)	is emerging, comes forth	v	irreg (sp, 
 jedermann	everyone
 zugänglichen	accessible	adj
 entspringen	to spring from, arise from, rise	v
+einzigartig	unique	adj
+eingeschleppte	entrained	adj
+die Seuche	plague	n
