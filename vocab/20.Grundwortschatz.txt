@@ -1,0 +1,27 @@
+die Ausgabe	expenditure edition	n	-n
+der Band	volume	n	-¨e
+die Darstellung	representation	n	-en
+ein/führen (in)	to introduce (to)	v
+die Einteilung	division, arrangement	n	-en
+-fach	times, -fold	suffix	(with dash)
+falsch	false, wrong	adj
+führen (zu)	to lead (to)	v
+gar	even, very, quite	adv
+die Handlung	act, action	n	-en
+der Inhalt	content, contents	n	-e
+die Menge	amount	n	-n
+neulich	recently	adv
+die Rate	rate	n	-n
+sammeln	to collect	v
+der Schaden	damage	n	-¨
+der Sinn	meaning, sense	n	-e
+der Tod	death	n
+vergleichen (verglich, verglichen)	to compare	v	irreg (sp, pp)
+der Verlag	publishing house, publishers	n	-e
+verständlich	intelligible
+v.H. (von Hundert)	percent
+vorhanden sein	to be present	v
+vorher/gehen (ging…vorher, ist vorhergegangen)	to precede	v	irreg (sp, pp)
+vor/schlagen (schlug…vor, vorgeschlagen; schlägt…vor)	to suggest, propose	irreg (sp, pp; 3p)
+wirken	to work, be engaged, to have an effect	v
+die Wirtschaft	economy	n	-en

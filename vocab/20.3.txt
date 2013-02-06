@@ -1,0 +1,25 @@
+arbeitslos	unemployed	adj
+atemlos	breathless	adj
+bewegungslos	motionless	adj
+brotlos	breadless	adj
+erfolglos	unsuccessful	adj
+farblos	colorless	adj
+furchtlos	fearless	adj
+geldlos	without money	adj
+machtlos	powerless	adj
+obdachlos	homeless	adj
+sprachlos	speechless	adj
+zahllos	countless	adj
+dreifach	three times	adj
+mehrfach	several times	adj
+vielfach	many times, manifold	adj
+zehnfach	ten times	adj
+einfach	simple	adj
+damals	at that time	adv
+einmal	once	adv
+jedes Mal	every time
+keinmal	never	adv
+manchmal	sometimes	adv
+oftmals	frequently	adv
+viermal	four times	adv
+zigmal	over and over, a thousand times	adv
