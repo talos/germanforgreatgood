@@ -3,7 +3,7 @@ also	thus, so	conj
 arm	poor	adj
 die Art	species, type, class	n
 bald	soon	adv
-der band	volume	n
+der Band	volume	n
 das Band	tie, bond	n
 bei	at, while, during, with
 bekommen	to receive	v
