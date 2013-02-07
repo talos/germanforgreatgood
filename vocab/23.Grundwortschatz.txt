@@ -1,0 +1,25 @@
+die Anzahl	number	n
+der Aufbau	construction	n
+die Ausstellung	exhibition, exhibit	n	-en
+die Bezeichnung	term, designation	n	-en
+der Franzose	Frenchman	n	-n
+die Französin	Frenchwoman	n	-nen
+das Gebäude	building	n	-
+das Gebiet	area, region, zone	n	-e
+die Gelegenheit	opportunity	n	-en
+gering	small, slight	adj
+häufig	frequent	adj
+insgesamt	all together, all in all
+der Kopf	head	n	-¨e
+laufen (lief, ist gelaufen; läuft)	to run	v	irreg (sp, pp; 3p)
+die Maßnahme	measure, precaution	n	-n
+stehen (stand, gestanden)	to stand	v	irreg (sp, pp)
+das Studium	study, studies (at university)	n	-um/-en
+die Verbindung	connection	n	-en
+der Vergleich	comparison	n	-e
+zum Vergleich	as a comparison
+vermeiden (vermied, vermieden)	to avoid	v	irreg (sp, pp)
+vor	(amount of time) ago	prep
+zerstören	to destroy	v
+die Zerstörung	destruction	n	-en
+die Zusammenarbeit	cooperation	n
