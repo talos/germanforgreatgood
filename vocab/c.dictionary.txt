@@ -1,0 +1,79 @@
+der Kohl	cabbage	n	-
+der Kuchen	cake	n	-en
+die Wade	calf	n	-n
+an/rufen (rief…an)	to call (by telephone	v	irreg (sp)
+heißen (hieß)	to be called	v	irreg (sp)
+die Süßwaren	candy	n	-n
+die Mütze	cap	n	-n
+die Hauptstadt	capital	n	-¨e
+der Wagen	car	n	-
+die Karte	card	n	-n
+vorsichtig	careful	adj
+tragen (trug; trägt)	to carry	v	irreg (sp; 3p)
+das Bargeld	cash	n
+der Kassierer	cashier (n)	n	-
+die Kassiererin	cashier (f)	n	-nen
+die Kassette	cassettee	n	-n
+die Katze	cat	n	-n
+gewiß	certainly	adv
+der Stuhl	chair	n	-¨e
+das Kleingeld	change (small amount of money)	n
+wechseln	to change	v
+billig	cheap	adj
+der Scheck	check	n	-s
+das Scheckbuch	checkbook	n	-¨er
+die Wange	cheek	n	-n
+der Käse	cheese	n	-
+die Kirsche	cherry	n	-n
+die Brust	chest	n	-¨e
+das Huhn	chicken	n	-¨er
+das Kinn	chin	n	-e
+die Schokolade	chocolate	n	-n
+die Zigarre	cigar	n	-n
+die Zigarette	cigarette	n	-n
+die Stadt	city	n	-¨e
+klassisch	classical	adj
+rein	clean	adj
+der Angestellte	clerk	n	-n
+die Uhr	clock	n	-en
+zu/machen	to close	v
+die Kleidung	clothes	n	-en
+die Wolke	cloud	n	-n
+die Kupplung	clutch	n	-en
+der Kaffee	coffee	n	-s
+die Münze	coin	n	-n
+die Erkältung	cold	n	-en
+die Reinigungskrem	cold cream	n	-s
+sammeln	to collect	v
+die Farbe	color	n	-n
+der Kamm	comb	n	-¨e
+kämmen	to comb	v
+kommen (kam)	to come	v	irreg (sp)
+bequem	comfortable	adj
+vergleichen	to compare	v
+das Abteil	compartment	n	-e
+sich beschweren	to complain	v
+gratulieren	to congratulate	v
+verbinden (verband, verbunden)	to connect	v	irreg (sp, pp)
+das Gespräch	conversation	n	-e
+kochen	to cook	v
+der Keks	cookie	n	-e
+kühl	cool	adj
+die Ecke	corner	n	-n
+cosmetic	das Schönheitsmittel	n-
+to cost	kosten	v
+die Baumwolle	cotton	n	-n
+husten	to cough	v
+der Schalter	counter	n	-
+der Gang	course	n	-¨e
+der Vetter	cousin (n)	n	-n
+die Kusine	cousin (f)	n	-n
+verrückt	crazy	adj
+die Krem	cream	n	-s
+die Molkerei	creamery	n	-en
+überqueren	to cross	v
+die Gurke	cucumber	n	-n
+die Tasse	cup	n	-n
+die Locke	curl	n	-n
+der Lockenwickel	curler	n	-
+schneiden (schnitt, geschnitten)	to cut	v	irreg (sp, pp)

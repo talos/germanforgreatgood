@@ -1,0 +1,76 @@
+der Rücken	back	n
+back	züruck	prep
+in back	hinten	prep
+der Rucksack	backpack	n
+schlecht	bad	adj
+backen	to bake	v
+das Backhuhn	baked chicken	n
+der Bäcker	baker	n
+die Bäckerei	bakery	n
+kahl	bald	adj
+der Ball	ball	n
+der Kugelschreiber	ballpoint pen	n
+das Heftpflaster	bandage, adhesive	n
+der Pony	bangs	n
+die Bank	bank	n
+der Bankbeamte	bank employee	n
+der Herrensalon	barber shop	n
+der Korb	basket	n
+das Badezimmer	bathroom	n
+die Badewanne	bath tub	n
+der Bart	beard	n
+schön	beautiful	adj
+der Damensalon	beauty shop	n
+weil	because	conj
+das Bier	beer	n
+vor	before	prep
+beginnen	to begin	v
+hinter	behind	prep
+glauben	to believe	v
+der Bauch	belly	n
+gehören	to belong	v
+der Gürtel	belt	n
+außerdem	besides	prep
+zwischen	between	prep
+das Fahrrad	bicycle	n
+groß	big	adj
+die Rechnung	bill	n
+binden	to bind	v
+schwarz	black	adj
+die Decke	blanket	n
+blind	blind	adj
+der Straßenzug	block	n
+blond	blond	adj
+die Bluse	blouse	n
+blau	blue	adj
+das Buch	book	n
+der Stiefel	boot	n
+die Zelle	booth	n
+die Grenze	border	n
+langweilig	boring	adj
+borgen	to borrow	v
+beide	both	adj
+die Schüssel	bowl	n
+die Schachtel	box	n
+der Junge	boy	n
+der Büstenhalter	bra	n
+das Armband	bracelet	n
+die Bremse	brake	n
+das Brot	bread	n
+das Frühstuck	breakfast	n
+atmen	to breath	v
+die Brücke	bridge	n
+bringen	to bring	v
+die Brosche	brooch	n
+der Bruder	brother	n
+bürsten	to brush	v
+der Haarknoten	bun	n
+verbrennen	to burn	v
+der Bus	bus	n
+aber	but	conj
+der Metzger	butcher	n
+die Butter	butter	n
+der Knopf	button	n
+kaufen	to buy	v
+übrigens	by the way
+
