@@ -1,6 +1,6 @@
 der Rücken	back	n
-back	züruck	prep
-in back	hinten	prep
+züruck	back	prep
+hinten	in back	prep
 der Rucksack	backpack	n
 schlecht	bad	adj
 backen	to bake	v
@@ -65,7 +65,7 @@ die Brosche	brooch	n
 der Bruder	brother	n
 bürsten	to brush	v
 der Haarknoten	bun	n
-verbrennen	to burn	v
+verbrennen (verbrannte, verbrannt)	to burn	v	irreg (sp, pp)
 der Bus	bus	n
 aber	but	conj
 der Metzger	butcher	n
