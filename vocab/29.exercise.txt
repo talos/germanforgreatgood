@@ -1,0 +1,46 @@
+die Fläche	surface	n	-n
+die Ebene	plane	n	-n
+zu/kehren	to turn to	v
+durch/machen	to experience, undergo	v
+der Friede	peace	n	n-noun
+jungräulich	virginal	adj
+die Mahlzeit	meal, repast	n	-en
+das Schwert	sword	n	-er
+das Pferdehaar	horsehair	n	-e
+auf/hängen	to hang up, suspend	v
+drohen	to threaten	v
+der Wirtschaftspartner	economic partner	n	-
+der Verlag	publisher	n	-e
+sich ein/stellen auf	to adjust to, adapt oneself to	v
+überblicken	to survey, view, look over	v
+die Bezeichnung	name, designation
+die Spur	track, trace, foots
+die Tournee	tour	n	-n
+der Abschluss	conclusion	n	-¨e
+die Gesellschaft	society	n	-en
+einige wenige	only a few
+an/treten (trat…an, ist getreten; tritt…an)	to set out on	v	irreg (sp, pp; 3p)
+hinzu/kommen (kam…hinzu, ist hinzugekommen)	to be added	v	irreg (sp, pp)
+aus/tarieren	to balance out	v
+das Tageslicht	daylight, sunshine	n
+ein/brechen (brach…ein, ist eingebrochen; bricht…ein)	to enter, break into	v	irreg (sp, pp; 3p)
+die Suche	search	n	-n
+das Arkadien	Arcadia	n
+das Mittelmeer	Mediterranean Sea
+sich binden an (band, gebunden)	to feel compelled by	v	irreg (sp, pp)
+umfangreich	extensive, comprehensive	adj
+die Schau	show, exhibition	n	-en
+überhand/nehmen	to become dominant/rampant	v
+an…denken lässt	makes one think of…
+der Affichist	poster artist	n	n-noun
+der Umkreis	circle	n	-e
+Nouveau Réalisme	"new realism"
+voran/gehen (ging…voran, ist vorangegangen)	to precede	v	irreg (sp, pp) + dat
+der Mitteilungsdrang	urge to communicate	n
+sich ausdrücken	to be expressed	v
+das Zeichen	symbol	n	-
+die Botschaft	message	n	-en
+endlos	endless, never-ending	adj
+der Zirkelschlag	circular stroke	n	-¨e
+graugrundiert	having a gray background	adj
+das Bildformat	picture format	n	-e
