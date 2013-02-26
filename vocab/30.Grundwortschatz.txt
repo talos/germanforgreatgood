@@ -1,0 +1,21 @@
+ab/hängen (von) (hing ab, abgehangen)	depend (on)	v	irreg (sp, pp)
+an/wenden (wandte…an, angewandt)	to use, employ	v	irreg (sp, pp)
+der Forscher	researcher (m)	n	-
+die Forscherin	researcher (f)	n	-nen
+gegenwärtig	present, contemporary	adj
+geheimnisvoll	mysterious	adj
+gelangen	to arrive at, reach	v
+gelingen (gelang, ist gelungen)	to succeed	v	irreg (sp, pp)
+der Gesichtpunkt	point of view, aspect	n	-e
+das Herz	heart	n	-en
+hin/weisen (auf) (wies hin, hingewiesen)	to point, allude, refer (to)	v	irreg (sp, pp)
+neuartig	novel, new-fashioned	adj
+das Phänomen	phenomenon	n	-e
+der Stand	state, position, stan	-¨e
+der Überblick	overview, survey	n	-¨e
+unternehmen (unternham, unternommen; unternimmt)	to carry out, undertake	v	irreg (sp, pp; 3p)
+der Verfasser	author (m)	n	-
+die Verfasserin	author (f)	n	-nen
+vermitteln	to convey, give	v
+vermuten	to suspect, assume	v
+zusammen/hängen (hing…zusammen, zusammengehangen)	to be connected with	v	irreg (sp, pp)
